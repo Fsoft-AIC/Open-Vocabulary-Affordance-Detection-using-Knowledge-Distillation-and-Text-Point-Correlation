@@ -1,6 +1,6 @@
 # [ICRA 2024] Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation
 
-Official code for the IROS 2023 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation".
+Official code for the ICRA 2024 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation".
 
 Our paper is currently available at [this URL](https://arxiv.org/pdf/2309.10932). More information can be accessed via [our project page]().
 
