@@ -1,0 +1,1 @@
+# Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation
