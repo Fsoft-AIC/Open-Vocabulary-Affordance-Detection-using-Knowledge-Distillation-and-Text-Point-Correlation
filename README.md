@@ -1,7 +1,7 @@
 # [ICRA 2024] Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation
 
 Official code for the ICRA 2024 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation".
-
+2024 IEEE International Conference on Robotics and Automation
 Our paper is currently available at [this URL](https://arxiv.org/pdf/2309.10932). More information can be accessed via [our project page]().
 
 <img src="./demo/intro.png" width="500">
@@ -37,7 +37,7 @@ Please train the model on a single GPU for the best performance. Below are the s
 * Assume you use the GPU 0, then run the following command to start training:
 
 		CUDA_VISIBLE_DEVICES=0 python3 train.py --config ./config/openad_pn2/full_shape_cfg.py --config_teacher './config/teacher/estimation_cfg.py' --checkpoint_teacher <path to your checkpoint teacher model> --work_dir ./log/openad_pn2/OPENAD_PN2_FULL_SHAPE_Release/ --gpu 0
-    Where ```<path to your checkpoint model>``` is your dowloaed the pretrained teacher model.
+    Where ```<path to your checkpoint teacher model>``` is your dowloaed the pretrained teacher model.
 ## Open-Vocabulary Testing
 The followings are steps for open-vocabulary testing a trained model with PointNet++ backbone on the full-shape setting, those of other combinations are equivalent.
 
