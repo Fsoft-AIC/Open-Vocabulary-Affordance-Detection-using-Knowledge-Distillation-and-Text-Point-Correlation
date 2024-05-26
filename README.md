@@ -1,7 +1,7 @@
 # [ICRA 2024] Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation
 
-Official code for the ICRA 2024 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation".
-2024 IEEE International Conference on Robotics and Automation
+Official code for the ICRA 2024 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation". 2024 IEEE International Conference on Robotics and Automation
+
 Our paper is currently available at [this URL](https://arxiv.org/pdf/2309.10932). More information can be accessed via [our project page]().
 
 <img src="./demo/intro.png" width="500">
