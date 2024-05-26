@@ -1,0 +1,7263 @@
+Use 1 GPUs: 0
+Set seed to 1
+Epoch(0) begin training........
+Use 1 GPUs: 0
+Set seed to 1
+Epoch(0) begin training........
+Train(0), loss: 2.515534, time: 1045 s
+Epoch(0) begin validating......
+eval point avg class IoU: 0.040699
+eval point accuracy: 0.110918
+eval point avg class acc: 0.265140
+------- IoU --------
+class grasp, IoU: 0.013 
+class contain, IoU: 0.010 
+class lift, IoU: 0.000 
+class openable, IoU: 0.008 
+class layable, IoU: 0.002 
+class sittable, IoU: 0.164 
+class support, IoU: 0.038 
+class wrap_grasp, IoU: 0.028 
+class pourable, IoU: 0.087 
+class move, IoU: 0.046 
+class displaY, IoU: 0.063 
+class pushable, IoU: 0.001 
+class pull, IoU: 0.001 
+class listen, IoU: 0.078 
+class wear, IoU: 0.003 
+class press, IoU: 0.060 
+class cut, IoU: 0.140 
+class stab, IoU: 0.020 
+class none, IoU: 0.012 
+
+eval point avg class IoU: 0.029460
+eval point accuracy: 0.096964
+eval point avg class acc: 0.164875
+------- IoU --------
+class grab, IoU: 0.016 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.004 
+class take a seat, IoU: 0.161 
+class bear, IoU: 0.008 
+class wrap, IoU: 0.085 
+class pour, IoU: 0.081 
+class reposition, IoU: 0.060 
+class demonstrate, IoU: 0.034 
+class push, IoU: 0.000 
+class drag, IoU: 0.001 
+class hear, IoU: 0.038 
+class clothe, IoU: 0.002 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.051 
+class jab, IoU: 0.001 
+class none, IoU: 0.014 
+
+Saving model......
+Best mIoU: 0.040699
+Best mIoU_Zero-shot: 0.029460
+Epoch(1) begin training........
+Train(1), loss: 2.318955, time: 1045 s
+Epoch(1) begin validating......
+eval point avg class IoU: 0.036363
+eval point accuracy: 0.104140
+eval point avg class acc: 0.257953
+------- IoU --------
+class grasp, IoU: 0.009 
+class contain, IoU: 0.012 
+class lift, IoU: 0.000 
+class openable, IoU: 0.006 
+class layable, IoU: 0.002 
+class sittable, IoU: 0.157 
+class support, IoU: 0.016 
+class wrap_grasp, IoU: 0.104 
+class pourable, IoU: 0.076 
+class move, IoU: 0.018 
+class displaY, IoU: 0.078 
+class pushable, IoU: 0.000 
+class pull, IoU: 0.000 
+class listen, IoU: 0.050 
+class wear, IoU: 0.004 
+class press, IoU: 0.096 
+class cut, IoU: 0.048 
+class stab, IoU: 0.007 
+class none, IoU: 0.007 
+
+eval point avg class IoU: 0.034373
+eval point accuracy: 0.111746
+eval point avg class acc: 0.167194
+------- IoU --------
+class grab, IoU: 0.031 
+class accommodate, IoU: 0.027 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.162 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.124 
+class pour, IoU: 0.077 
+class reposition, IoU: 0.073 
+class demonstrate, IoU: 0.094 
+class push, IoU: 0.000 
+class drag, IoU: 0.000 
+class hear, IoU: 0.028 
+class clothe, IoU: 0.004 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.024 
+class jab, IoU: 0.000 
+class none, IoU: 0.003 
+
+Epoch(2) begin training........
+Train(2), loss: 2.229288, time: 1047 s
+Epoch(2) begin validating......
+eval point avg class IoU: 0.059553
+eval point accuracy: 0.137865
+eval point avg class acc: 0.321720
+------- IoU --------
+class grasp, IoU: 0.012 
+class contain, IoU: 0.015 
+class lift, IoU: 0.000 
+class openable, IoU: 0.005 
+class layable, IoU: 0.017 
+class sittable, IoU: 0.155 
+class support, IoU: 0.018 
+class wrap_grasp, IoU: 0.150 
+class pourable, IoU: 0.150 
+class move, IoU: 0.064 
+class displaY, IoU: 0.104 
+class pushable, IoU: 0.001 
+class pull, IoU: 0.000 
+class listen, IoU: 0.150 
+class wear, IoU: 0.011 
+class press, IoU: 0.067 
+class cut, IoU: 0.180 
+class stab, IoU: 0.013 
+class none, IoU: 0.020 
+
+eval point avg class IoU: 0.038163
+eval point accuracy: 0.129935
+eval point avg class acc: 0.166875
+------- IoU --------
+class grab, IoU: 0.007 
+class accommodate, IoU: 0.019 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.160 
+class bear, IoU: 0.038 
+class wrap, IoU: 0.155 
+class pour, IoU: 0.125 
+class reposition, IoU: 0.088 
+class demonstrate, IoU: 0.036 
+class push, IoU: 0.000 
+class drag, IoU: 0.001 
+class hear, IoU: 0.073 
+class clothe, IoU: 0.002 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.010 
+class jab, IoU: 0.000 
+class none, IoU: 0.012 
+
+Saving model......
+Best mIoU: 0.059553
+Best mIoU_Zero-shot: 0.038163
+Epoch(3) begin training........
+Train(3), loss: 2.093564, time: 1045 s
+Epoch(3) begin validating......
+eval point avg class IoU: 0.121489
+eval point accuracy: 0.396945
+eval point avg class acc: 0.358705
+------- IoU --------
+class grasp, IoU: 0.268 
+class contain, IoU: 0.001 
+class lift, IoU: 0.000 
+class openable, IoU: 0.001 
+class layable, IoU: 0.008 
+class sittable, IoU: 0.204 
+class support, IoU: 0.002 
+class wrap_grasp, IoU: 0.288 
+class pourable, IoU: 0.181 
+class move, IoU: 0.055 
+class displaY, IoU: 0.186 
+class pushable, IoU: 0.000 
+class pull, IoU: 0.000 
+class listen, IoU: 0.221 
+class wear, IoU: 0.001 
+class press, IoU: 0.123 
+class cut, IoU: 0.301 
+class stab, IoU: 0.026 
+class none, IoU: 0.444 
+
+eval point avg class IoU: 0.071847
+eval point accuracy: 0.387569
+eval point avg class acc: 0.183256
+------- IoU --------
+class grab, IoU: 0.143 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.205 
+class bear, IoU: 0.030 
+class wrap, IoU: 0.162 
+class pour, IoU: 0.078 
+class reposition, IoU: 0.011 
+class demonstrate, IoU: 0.146 
+class push, IoU: 0.003 
+class drag, IoU: 0.000 
+class hear, IoU: 0.114 
+class clothe, IoU: 0.001 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.008 
+class jab, IoU: 0.000 
+class none, IoU: 0.459 
+
+Saving model......
+Best mIoU: 0.121489
+Best mIoU_Zero-shot: 0.071847
+Epoch(4) begin training........
+Train(4), loss: 1.647390, time: 1048 s
+Epoch(4) begin validating......
+eval point avg class IoU: 0.223421
+eval point accuracy: 0.563629
+eval point avg class acc: 0.458082
+------- IoU --------
+class grasp, IoU: 0.278 
+class contain, IoU: 0.279 
+class lift, IoU: 0.000 
+class openable, IoU: 0.110 
+class layable, IoU: 0.036 
+class sittable, IoU: 0.533 
+class support, IoU: 0.493 
+class wrap_grasp, IoU: 0.288 
+class pourable, IoU: 0.226 
+class move, IoU: 0.380 
+class displaY, IoU: 0.242 
+class pushable, IoU: 0.074 
+class pull, IoU: 0.000 
+class listen, IoU: 0.211 
+class wear, IoU: 0.101 
+class press, IoU: 0.232 
+class cut, IoU: 0.278 
+class stab, IoU: 0.034 
+class none, IoU: 0.449 
+
+eval point avg class IoU: 0.104706
+eval point accuracy: 0.429966
+eval point avg class acc: 0.205458
+------- IoU --------
+class grab, IoU: 0.208 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.523 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.235 
+class pour, IoU: 0.165 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.256 
+class push, IoU: 0.001 
+class drag, IoU: 0.000 
+class hear, IoU: 0.125 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.004 
+class jab, IoU: 0.000 
+class none, IoU: 0.462 
+
+Saving model......
+Best mIoU: 0.223421
+Best mIoU_Zero-shot: 0.104706
+Epoch(5) begin training........
+Train(5), loss: 1.422021, time: 1044 s
+Epoch(5) begin validating......
+eval point avg class IoU: 0.236734
+eval point accuracy: 0.577809
+eval point avg class acc: 0.482498
+------- IoU --------
+class grasp, IoU: 0.269 
+class contain, IoU: 0.319 
+class lift, IoU: 0.000 
+class openable, IoU: 0.124 
+class layable, IoU: 0.000 
+class sittable, IoU: 0.515 
+class support, IoU: 0.490 
+class wrap_grasp, IoU: 0.290 
+class pourable, IoU: 0.188 
+class move, IoU: 0.390 
+class displaY, IoU: 0.410 
+class pushable, IoU: 0.147 
+class pull, IoU: 0.000 
+class listen, IoU: 0.147 
+class wear, IoU: 0.233 
+class press, IoU: 0.180 
+class cut, IoU: 0.292 
+class stab, IoU: 0.033 
+class none, IoU: 0.470 
+
+eval point avg class IoU: 0.089145
+eval point accuracy: 0.454341
+eval point avg class acc: 0.185979
+------- IoU --------
+class grab, IoU: 0.201 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.011 
+class take a seat, IoU: 0.526 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.292 
+class pour, IoU: 0.010 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.068 
+class push, IoU: 0.000 
+class drag, IoU: 0.000 
+class hear, IoU: 0.114 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.009 
+class jab, IoU: 0.000 
+class none, IoU: 0.455 
+
+Epoch(6) begin training........
+Train(6), loss: 1.334045, time: 1045 s
+Epoch(6) begin validating......
+eval point avg class IoU: 0.271024
+eval point accuracy: 0.599982
+eval point avg class acc: 0.496507
+------- IoU --------
+class grasp, IoU: 0.332 
+class contain, IoU: 0.313 
+class lift, IoU: 0.000 
+class openable, IoU: 0.139 
+class layable, IoU: 0.065 
+class sittable, IoU: 0.549 
+class support, IoU: 0.474 
+class wrap_grasp, IoU: 0.309 
+class pourable, IoU: 0.264 
+class move, IoU: 0.419 
+class displaY, IoU: 0.323 
+class pushable, IoU: 0.128 
+class pull, IoU: 0.000 
+class listen, IoU: 0.177 
+class wear, IoU: 0.294 
+class press, IoU: 0.336 
+class cut, IoU: 0.498 
+class stab, IoU: 0.034 
+class none, IoU: 0.493 
+
+eval point avg class IoU: 0.108352
+eval point accuracy: 0.467771
+eval point avg class acc: 0.231336
+------- IoU --------
+class grab, IoU: 0.153 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.526 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.339 
+class pour, IoU: 0.019 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.135 
+class push, IoU: 0.193 
+class drag, IoU: 0.000 
+class hear, IoU: 0.128 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.004 
+class jab, IoU: 0.088 
+class none, IoU: 0.450 
+
+Saving model......
+Best mIoU: 0.271024
+Best mIoU_Zero-shot: 0.108352
+Epoch(7) begin training........
+Train(7), loss: 1.240178, time: 1046 s
+Epoch(7) begin validating......
+eval point avg class IoU: 0.291955
+eval point accuracy: 0.622892
+eval point avg class acc: 0.544446
+------- IoU --------
+class grasp, IoU: 0.358 
+class contain, IoU: 0.347 
+class lift, IoU: 0.000 
+class openable, IoU: 0.160 
+class layable, IoU: 0.137 
+class sittable, IoU: 0.566 
+class support, IoU: 0.498 
+class wrap_grasp, IoU: 0.330 
+class pourable, IoU: 0.314 
+class move, IoU: 0.409 
+class displaY, IoU: 0.457 
+class pushable, IoU: 0.167 
+class pull, IoU: 0.012 
+class listen, IoU: 0.322 
+class wear, IoU: 0.202 
+class press, IoU: 0.267 
+class cut, IoU: 0.459 
+class stab, IoU: 0.023 
+class none, IoU: 0.520 
+
+eval point avg class IoU: 0.115874
+eval point accuracy: 0.464202
+eval point avg class acc: 0.253012
+------- IoU --------
+class grab, IoU: 0.212 
+class accommodate, IoU: 0.022 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.004 
+class rest, IoU: 0.096 
+class take a seat, IoU: 0.473 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.291 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.013 
+class push, IoU: 0.155 
+class drag, IoU: 0.000 
+class hear, IoU: 0.062 
+class clothe, IoU: 0.332 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.037 
+class jab, IoU: 0.038 
+class none, IoU: 0.461 
+
+Saving model......
+Best mIoU: 0.291955
+Best mIoU_Zero-shot: 0.115874
+Epoch(8) begin training........
+Train(8), loss: 1.225518, time: 1044 s
+Epoch(8) begin validating......
+eval point avg class IoU: 0.292893
+eval point accuracy: 0.623013
+eval point avg class acc: 0.525342
+------- IoU --------
+class grasp, IoU: 0.349 
+class contain, IoU: 0.347 
+class lift, IoU: 0.001 
+class openable, IoU: 0.163 
+class layable, IoU: 0.113 
+class sittable, IoU: 0.566 
+class support, IoU: 0.500 
+class wrap_grasp, IoU: 0.335 
+class pourable, IoU: 0.288 
+class move, IoU: 0.405 
+class displaY, IoU: 0.459 
+class pushable, IoU: 0.194 
+class pull, IoU: 0.000 
+class listen, IoU: 0.314 
+class wear, IoU: 0.271 
+class press, IoU: 0.235 
+class cut, IoU: 0.492 
+class stab, IoU: 0.009 
+class none, IoU: 0.524 
+
+eval point avg class IoU: 0.099906
+eval point accuracy: 0.459919
+eval point avg class acc: 0.218664
+------- IoU --------
+class grab, IoU: 0.113 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.464 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.292 
+class pour, IoU: 0.003 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.204 
+class drag, IoU: 0.000 
+class hear, IoU: 0.080 
+class clothe, IoU: 0.206 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.027 
+class jab, IoU: 0.043 
+class none, IoU: 0.457 
+
+Epoch(9) begin training........
+Train(9), loss: 1.174544, time: 1045 s
+Epoch(9) begin validating......
+eval point avg class IoU: 0.293085
+eval point accuracy: 0.610825
+eval point avg class acc: 0.553391
+------- IoU --------
+class grasp, IoU: 0.342 
+class contain, IoU: 0.326 
+class lift, IoU: 0.001 
+class openable, IoU: 0.160 
+class layable, IoU: 0.125 
+class sittable, IoU: 0.556 
+class support, IoU: 0.503 
+class wrap_grasp, IoU: 0.343 
+class pourable, IoU: 0.310 
+class move, IoU: 0.417 
+class displaY, IoU: 0.450 
+class pushable, IoU: 0.199 
+class pull, IoU: 0.000 
+class listen, IoU: 0.368 
+class wear, IoU: 0.289 
+class press, IoU: 0.331 
+class cut, IoU: 0.333 
+class stab, IoU: 0.024 
+class none, IoU: 0.492 
+
+eval point avg class IoU: 0.102439
+eval point accuracy: 0.462956
+eval point avg class acc: 0.209381
+------- IoU --------
+class grab, IoU: 0.089 
+class accommodate, IoU: 0.010 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.021 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.553 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.033 
+class pour, IoU: 0.028 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.235 
+class drag, IoU: 0.000 
+class hear, IoU: 0.161 
+class clothe, IoU: 0.062 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.043 
+class jab, IoU: 0.256 
+class none, IoU: 0.447 
+
+Epoch(10) begin training........
+Train(10), loss: 1.144721, time: 1045 s
+Epoch(10) begin validating......
+eval point avg class IoU: 0.309549
+eval point accuracy: 0.621279
+eval point avg class acc: 0.536444
+------- IoU --------
+class grasp, IoU: 0.340 
+class contain, IoU: 0.358 
+class lift, IoU: 0.001 
+class openable, IoU: 0.172 
+class layable, IoU: 0.213 
+class sittable, IoU: 0.564 
+class support, IoU: 0.508 
+class wrap_grasp, IoU: 0.336 
+class pourable, IoU: 0.300 
+class move, IoU: 0.423 
+class displaY, IoU: 0.392 
+class pushable, IoU: 0.242 
+class pull, IoU: 0.000 
+class listen, IoU: 0.412 
+class wear, IoU: 0.269 
+class press, IoU: 0.346 
+class cut, IoU: 0.474 
+class stab, IoU: 0.022 
+class none, IoU: 0.508 
+
+eval point avg class IoU: 0.110076
+eval point accuracy: 0.472507
+eval point avg class acc: 0.203085
+------- IoU --------
+class grab, IoU: 0.122 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.551 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.175 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.252 
+class push, IoU: 0.241 
+class drag, IoU: 0.000 
+class hear, IoU: 0.168 
+class clothe, IoU: 0.021 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.080 
+class jab, IoU: 0.007 
+class none, IoU: 0.452 
+
+Epoch(11) begin training........
+Train(11), loss: 1.123991, time: 1046 s
+Epoch(11) begin validating......
+eval point avg class IoU: 0.309632
+eval point accuracy: 0.598245
+eval point avg class acc: 0.546281
+------- IoU --------
+class grasp, IoU: 0.344 
+class contain, IoU: 0.356 
+class lift, IoU: 0.001 
+class openable, IoU: 0.185 
+class layable, IoU: 0.226 
+class sittable, IoU: 0.546 
+class support, IoU: 0.495 
+class wrap_grasp, IoU: 0.374 
+class pourable, IoU: 0.319 
+class move, IoU: 0.243 
+class displaY, IoU: 0.465 
+class pushable, IoU: 0.255 
+class pull, IoU: 0.000 
+class listen, IoU: 0.452 
+class wear, IoU: 0.317 
+class press, IoU: 0.268 
+class cut, IoU: 0.491 
+class stab, IoU: 0.033 
+class none, IoU: 0.514 
+
+eval point avg class IoU: 0.100704
+eval point accuracy: 0.454559
+eval point avg class acc: 0.181463
+------- IoU --------
+class grab, IoU: 0.142 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.404 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.005 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.282 
+class drag, IoU: 0.000 
+class hear, IoU: 0.380 
+class clothe, IoU: 0.056 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.146 
+class jab, IoU: 0.042 
+class none, IoU: 0.442 
+
+Epoch(12) begin training........
+Train(12), loss: 1.123359, time: 1045 s
+Epoch(12) begin validating......
+eval point avg class IoU: 0.297387
+eval point accuracy: 0.598138
+eval point avg class acc: 0.575283
+------- IoU --------
+class grasp, IoU: 0.360 
+class contain, IoU: 0.331 
+class lift, IoU: 0.001 
+class openable, IoU: 0.166 
+class layable, IoU: 0.132 
+class sittable, IoU: 0.493 
+class support, IoU: 0.500 
+class wrap_grasp, IoU: 0.344 
+class pourable, IoU: 0.294 
+class move, IoU: 0.422 
+class displaY, IoU: 0.434 
+class pushable, IoU: 0.192 
+class pull, IoU: 0.052 
+class listen, IoU: 0.434 
+class wear, IoU: 0.313 
+class press, IoU: 0.254 
+class cut, IoU: 0.426 
+class stab, IoU: 0.039 
+class none, IoU: 0.462 
+
+eval point avg class IoU: 0.122588
+eval point accuracy: 0.468925
+eval point avg class acc: 0.259714
+------- IoU --------
+class grab, IoU: 0.234 
+class accommodate, IoU: 0.016 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.059 
+class take a seat, IoU: 0.493 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.249 
+class pour, IoU: 0.035 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.014 
+class push, IoU: 0.276 
+class drag, IoU: 0.000 
+class hear, IoU: 0.112 
+class clothe, IoU: 0.314 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.062 
+class jab, IoU: 0.005 
+class none, IoU: 0.455 
+
+Saving model......
+Best mIoU: 0.297387
+Best mIoU_Zero-shot: 0.122588
+Epoch(13) begin training........
+Train(13), loss: 1.113082, time: 1042 s
+Epoch(13) begin validating......
+eval point avg class IoU: 0.303690
+eval point accuracy: 0.625050
+eval point avg class acc: 0.553064
+------- IoU --------
+class grasp, IoU: 0.359 
+class contain, IoU: 0.371 
+class lift, IoU: 0.001 
+class openable, IoU: 0.184 
+class layable, IoU: 0.277 
+class sittable, IoU: 0.552 
+class support, IoU: 0.497 
+class wrap_grasp, IoU: 0.346 
+class pourable, IoU: 0.301 
+class move, IoU: 0.427 
+class displaY, IoU: 0.395 
+class pushable, IoU: 0.234 
+class pull, IoU: 0.000 
+class listen, IoU: 0.370 
+class wear, IoU: 0.178 
+class press, IoU: 0.306 
+class cut, IoU: 0.434 
+class stab, IoU: 0.017 
+class none, IoU: 0.519 
+
+eval point avg class IoU: 0.101793
+eval point accuracy: 0.450499
+eval point avg class acc: 0.233827
+------- IoU --------
+class grab, IoU: 0.110 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.295 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.227 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.226 
+class drag, IoU: 0.000 
+class hear, IoU: 0.182 
+class clothe, IoU: 0.292 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.045 
+class jab, IoU: 0.094 
+class none, IoU: 0.448 
+
+Epoch(14) begin training........
+Train(14), loss: 1.090615, time: 1041 s
+Epoch(14) begin validating......
+eval point avg class IoU: 0.310531
+eval point accuracy: 0.625097
+eval point avg class acc: 0.561305
+------- IoU --------
+class grasp, IoU: 0.349 
+class contain, IoU: 0.361 
+class lift, IoU: 0.001 
+class openable, IoU: 0.188 
+class layable, IoU: 0.217 
+class sittable, IoU: 0.537 
+class support, IoU: 0.501 
+class wrap_grasp, IoU: 0.360 
+class pourable, IoU: 0.319 
+class move, IoU: 0.424 
+class displaY, IoU: 0.439 
+class pushable, IoU: 0.256 
+class pull, IoU: 0.005 
+class listen, IoU: 0.383 
+class wear, IoU: 0.305 
+class press, IoU: 0.282 
+class cut, IoU: 0.426 
+class stab, IoU: 0.034 
+class none, IoU: 0.513 
+
+eval point avg class IoU: 0.109960
+eval point accuracy: 0.467732
+eval point avg class acc: 0.253075
+------- IoU --------
+class grab, IoU: 0.252 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.009 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.537 
+class bear, IoU: 0.006 
+class wrap, IoU: 0.199 
+class pour, IoU: 0.019 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.064 
+class push, IoU: 0.268 
+class drag, IoU: 0.000 
+class hear, IoU: 0.128 
+class clothe, IoU: 0.053 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.037 
+class jab, IoU: 0.061 
+class none, IoU: 0.451 
+
+Epoch(15) begin training........
+Train(15), loss: 1.086141, time: 1044 s
+Epoch(15) begin validating......
+eval point avg class IoU: 0.315910
+eval point accuracy: 0.621916
+eval point avg class acc: 0.579984
+------- IoU --------
+class grasp, IoU: 0.319 
+class contain, IoU: 0.384 
+class lift, IoU: 0.001 
+class openable, IoU: 0.166 
+class layable, IoU: 0.222 
+class sittable, IoU: 0.560 
+class support, IoU: 0.501 
+class wrap_grasp, IoU: 0.355 
+class pourable, IoU: 0.323 
+class move, IoU: 0.428 
+class displaY, IoU: 0.463 
+class pushable, IoU: 0.268 
+class pull, IoU: 0.000 
+class listen, IoU: 0.463 
+class wear, IoU: 0.293 
+class press, IoU: 0.302 
+class cut, IoU: 0.388 
+class stab, IoU: 0.060 
+class none, IoU: 0.505 
+
+eval point avg class IoU: 0.128633
+eval point accuracy: 0.477430
+eval point avg class acc: 0.250985
+------- IoU --------
+class grab, IoU: 0.221 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.044 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.561 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.232 
+class pour, IoU: 0.009 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.157 
+class push, IoU: 0.277 
+class drag, IoU: 0.000 
+class hear, IoU: 0.057 
+class clothe, IoU: 0.127 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.259 
+class jab, IoU: 0.016 
+class none, IoU: 0.473 
+
+Saving model......
+Best mIoU: 0.315910
+Best mIoU_Zero-shot: 0.128633
+Epoch(16) begin training........
+Train(16), loss: 1.073244, time: 1043 s
+Epoch(16) begin validating......
+eval point avg class IoU: 0.305671
+eval point accuracy: 0.619856
+eval point avg class acc: 0.566473
+------- IoU --------
+class grasp, IoU: 0.337 
+class contain, IoU: 0.372 
+class lift, IoU: 0.001 
+class openable, IoU: 0.185 
+class layable, IoU: 0.219 
+class sittable, IoU: 0.552 
+class support, IoU: 0.508 
+class wrap_grasp, IoU: 0.342 
+class pourable, IoU: 0.324 
+class move, IoU: 0.428 
+class displaY, IoU: 0.420 
+class pushable, IoU: 0.080 
+class pull, IoU: 0.031 
+class listen, IoU: 0.413 
+class wear, IoU: 0.287 
+class press, IoU: 0.270 
+class cut, IoU: 0.498 
+class stab, IoU: 0.041 
+class none, IoU: 0.498 
+
+eval point avg class IoU: 0.133911
+eval point accuracy: 0.470392
+eval point avg class acc: 0.267942
+------- IoU --------
+class grab, IoU: 0.248 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.004 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.422 
+class bear, IoU: 0.005 
+class wrap, IoU: 0.335 
+class pour, IoU: 0.066 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.054 
+class push, IoU: 0.246 
+class drag, IoU: 0.000 
+class hear, IoU: 0.160 
+class clothe, IoU: 0.301 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.217 
+class jab, IoU: 0.026 
+class none, IoU: 0.461 
+
+Epoch(17) begin training........
+Train(17), loss: 1.076938, time: 1042 s
+Epoch(17) begin validating......
+eval point avg class IoU: 0.318119
+eval point accuracy: 0.626192
+eval point avg class acc: 0.571547
+------- IoU --------
+class grasp, IoU: 0.364 
+class contain, IoU: 0.381 
+class lift, IoU: 0.001 
+class openable, IoU: 0.184 
+class layable, IoU: 0.175 
+class sittable, IoU: 0.520 
+class support, IoU: 0.505 
+class wrap_grasp, IoU: 0.355 
+class pourable, IoU: 0.311 
+class move, IoU: 0.414 
+class displaY, IoU: 0.488 
+class pushable, IoU: 0.213 
+class pull, IoU: 0.000 
+class listen, IoU: 0.414 
+class wear, IoU: 0.265 
+class press, IoU: 0.365 
+class cut, IoU: 0.507 
+class stab, IoU: 0.064 
+class none, IoU: 0.519 
+
+eval point avg class IoU: 0.128881
+eval point accuracy: 0.468922
+eval point avg class acc: 0.246398
+------- IoU --------
+class grab, IoU: 0.071 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.536 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.106 
+class pour, IoU: 0.002 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.005 
+class push, IoU: 0.277 
+class drag, IoU: 0.000 
+class hear, IoU: 0.316 
+class clothe, IoU: 0.285 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.389 
+class jab, IoU: 0.008 
+class none, IoU: 0.450 
+
+Saving model......
+Best mIoU: 0.318119
+Best mIoU_Zero-shot: 0.128881
+Epoch(18) begin training........
+Train(18), loss: 1.072762, time: 1042 s
+Epoch(18) begin validating......
+eval point avg class IoU: 0.313439
+eval point accuracy: 0.630708
+eval point avg class acc: 0.574940
+------- IoU --------
+class grasp, IoU: 0.349 
+class contain, IoU: 0.371 
+class lift, IoU: 0.001 
+class openable, IoU: 0.168 
+class layable, IoU: 0.186 
+class sittable, IoU: 0.565 
+class support, IoU: 0.490 
+class wrap_grasp, IoU: 0.339 
+class pourable, IoU: 0.314 
+class move, IoU: 0.448 
+class displaY, IoU: 0.461 
+class pushable, IoU: 0.136 
+class pull, IoU: 0.007 
+class listen, IoU: 0.370 
+class wear, IoU: 0.322 
+class press, IoU: 0.346 
+class cut, IoU: 0.493 
+class stab, IoU: 0.070 
+class none, IoU: 0.520 
+
+eval point avg class IoU: 0.118484
+eval point accuracy: 0.476177
+eval point avg class acc: 0.250754
+------- IoU --------
+class grab, IoU: 0.224 
+class accommodate, IoU: 0.026 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.549 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.315 
+class pour, IoU: 0.114 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.004 
+class push, IoU: 0.188 
+class drag, IoU: 0.000 
+class hear, IoU: 0.137 
+class clothe, IoU: 0.001 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.225 
+class jab, IoU: 0.001 
+class none, IoU: 0.459 
+
+Epoch(19) begin training........
+Train(19), loss: 1.069192, time: 1042 s
+Epoch(19) begin validating......
+eval point avg class IoU: 0.319261
+eval point accuracy: 0.624416
+eval point avg class acc: 0.596368
+------- IoU --------
+class grasp, IoU: 0.368 
+class contain, IoU: 0.369 
+class lift, IoU: 0.001 
+class openable, IoU: 0.185 
+class layable, IoU: 0.193 
+class sittable, IoU: 0.547 
+class support, IoU: 0.509 
+class wrap_grasp, IoU: 0.353 
+class pourable, IoU: 0.303 
+class move, IoU: 0.433 
+class displaY, IoU: 0.469 
+class pushable, IoU: 0.217 
+class pull, IoU: 0.000 
+class listen, IoU: 0.429 
+class wear, IoU: 0.293 
+class press, IoU: 0.329 
+class cut, IoU: 0.484 
+class stab, IoU: 0.078 
+class none, IoU: 0.505 
+
+eval point avg class IoU: 0.131720
+eval point accuracy: 0.470209
+eval point avg class acc: 0.239634
+------- IoU --------
+class grab, IoU: 0.105 
+class accommodate, IoU: 0.021 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.013 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.449 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.313 
+class pour, IoU: 0.085 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.024 
+class push, IoU: 0.220 
+class drag, IoU: 0.000 
+class hear, IoU: 0.222 
+class clothe, IoU: 0.244 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.336 
+class jab, IoU: 0.006 
+class none, IoU: 0.459 
+
+Saving model......
+Best mIoU: 0.319261
+Best mIoU_Zero-shot: 0.131720
+Epoch(20) begin training........
+Train(20), loss: 1.000955, time: 1041 s
+Epoch(20) begin validating......
+eval point avg class IoU: 0.331578
+eval point accuracy: 0.646073
+eval point avg class acc: 0.577444
+------- IoU --------
+class grasp, IoU: 0.376 
+class contain, IoU: 0.394 
+class lift, IoU: 0.001 
+class openable, IoU: 0.195 
+class layable, IoU: 0.212 
+class sittable, IoU: 0.568 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.355 
+class pourable, IoU: 0.327 
+class move, IoU: 0.427 
+class displaY, IoU: 0.486 
+class pushable, IoU: 0.222 
+class pull, IoU: 0.003 
+class listen, IoU: 0.448 
+class wear, IoU: 0.334 
+class press, IoU: 0.360 
+class cut, IoU: 0.493 
+class stab, IoU: 0.040 
+class none, IoU: 0.545 
+
+eval point avg class IoU: 0.102528
+eval point accuracy: 0.465928
+eval point avg class acc: 0.197633
+------- IoU --------
+class grab, IoU: 0.048 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.012 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.542 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.050 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.272 
+class drag, IoU: 0.000 
+class hear, IoU: 0.274 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.212 
+class jab, IoU: 0.081 
+class none, IoU: 0.450 
+
+Epoch(21) begin training........
+Train(21), loss: 0.989128, time: 1043 s
+Epoch(21) begin validating......
+eval point avg class IoU: 0.335261
+eval point accuracy: 0.647525
+eval point avg class acc: 0.598591
+------- IoU --------
+class grasp, IoU: 0.353 
+class contain, IoU: 0.382 
+class lift, IoU: 0.001 
+class openable, IoU: 0.190 
+class layable, IoU: 0.212 
+class sittable, IoU: 0.570 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.390 
+class pourable, IoU: 0.338 
+class move, IoU: 0.434 
+class displaY, IoU: 0.468 
+class pushable, IoU: 0.159 
+class pull, IoU: 0.037 
+class listen, IoU: 0.471 
+class wear, IoU: 0.304 
+class press, IoU: 0.374 
+class cut, IoU: 0.533 
+class stab, IoU: 0.088 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.119948
+eval point accuracy: 0.468546
+eval point avg class acc: 0.231138
+------- IoU --------
+class grab, IoU: 0.157 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.024 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.528 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.010 
+class pour, IoU: 0.100 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.066 
+class push, IoU: 0.264 
+class drag, IoU: 0.000 
+class hear, IoU: 0.330 
+class clothe, IoU: 0.049 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.187 
+class jab, IoU: 0.106 
+class none, IoU: 0.452 
+
+Epoch(22) begin training........
+Train(22), loss: 0.981714, time: 1044 s
+Epoch(22) begin validating......
+eval point avg class IoU: 0.327797
+eval point accuracy: 0.633310
+eval point avg class acc: 0.605011
+------- IoU --------
+class grasp, IoU: 0.361 
+class contain, IoU: 0.390 
+class lift, IoU: 0.001 
+class openable, IoU: 0.202 
+class layable, IoU: 0.216 
+class sittable, IoU: 0.540 
+class support, IoU: 0.506 
+class wrap_grasp, IoU: 0.375 
+class pourable, IoU: 0.328 
+class move, IoU: 0.443 
+class displaY, IoU: 0.491 
+class pushable, IoU: 0.216 
+class pull, IoU: 0.040 
+class listen, IoU: 0.334 
+class wear, IoU: 0.333 
+class press, IoU: 0.338 
+class cut, IoU: 0.521 
+class stab, IoU: 0.079 
+class none, IoU: 0.514 
+
+eval point avg class IoU: 0.123145
+eval point accuracy: 0.474227
+eval point avg class acc: 0.253065
+------- IoU --------
+class grab, IoU: 0.264 
+class accommodate, IoU: 0.024 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.014 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.493 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.327 
+class pour, IoU: 0.009 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.257 
+class drag, IoU: 0.000 
+class hear, IoU: 0.160 
+class clothe, IoU: 0.059 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.210 
+class jab, IoU: 0.056 
+class none, IoU: 0.463 
+
+Epoch(23) begin training........
+Train(23), loss: 0.982146, time: 1043 s
+Epoch(23) begin validating......
+eval point avg class IoU: 0.341284
+eval point accuracy: 0.643414
+eval point avg class acc: 0.597150
+------- IoU --------
+class grasp, IoU: 0.365 
+class contain, IoU: 0.390 
+class lift, IoU: 0.001 
+class openable, IoU: 0.194 
+class layable, IoU: 0.266 
+class sittable, IoU: 0.572 
+class support, IoU: 0.464 
+class wrap_grasp, IoU: 0.383 
+class pourable, IoU: 0.345 
+class move, IoU: 0.440 
+class displaY, IoU: 0.489 
+class pushable, IoU: 0.277 
+class pull, IoU: 0.000 
+class listen, IoU: 0.481 
+class wear, IoU: 0.366 
+class press, IoU: 0.355 
+class cut, IoU: 0.458 
+class stab, IoU: 0.094 
+class none, IoU: 0.545 
+
+eval point avg class IoU: 0.107831
+eval point accuracy: 0.460247
+eval point avg class acc: 0.186952
+------- IoU --------
+class grab, IoU: 0.040 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.455 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.021 
+class pour, IoU: 0.006 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.020 
+class push, IoU: 0.283 
+class drag, IoU: 0.000 
+class hear, IoU: 0.414 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.342 
+class jab, IoU: 0.014 
+class none, IoU: 0.446 
+
+Epoch(24) begin training........
+Train(24), loss: 0.973808, time: 1039 s
+Epoch(24) begin validating......
+eval point avg class IoU: 0.331153
+eval point accuracy: 0.634483
+eval point avg class acc: 0.588686
+------- IoU --------
+class grasp, IoU: 0.366 
+class contain, IoU: 0.382 
+class lift, IoU: 0.001 
+class openable, IoU: 0.201 
+class layable, IoU: 0.139 
+class sittable, IoU: 0.564 
+class support, IoU: 0.505 
+class wrap_grasp, IoU: 0.398 
+class pourable, IoU: 0.330 
+class move, IoU: 0.446 
+class displaY, IoU: 0.454 
+class pushable, IoU: 0.217 
+class pull, IoU: 0.018 
+class listen, IoU: 0.428 
+class wear, IoU: 0.346 
+class press, IoU: 0.368 
+class cut, IoU: 0.533 
+class stab, IoU: 0.086 
+class none, IoU: 0.510 
+
+eval point avg class IoU: 0.123490
+eval point accuracy: 0.472411
+eval point avg class acc: 0.238006
+------- IoU --------
+class grab, IoU: 0.221 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.527 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.150 
+class pour, IoU: 0.062 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.043 
+class push, IoU: 0.223 
+class drag, IoU: 0.000 
+class hear, IoU: 0.166 
+class clothe, IoU: 0.251 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.199 
+class jab, IoU: 0.026 
+class none, IoU: 0.454 
+
+Epoch(25) begin training........
+Train(25), loss: 0.969706, time: 1039 s
+Epoch(25) begin validating......
+eval point avg class IoU: 0.331744
+eval point accuracy: 0.632581
+eval point avg class acc: 0.610413
+------- IoU --------
+class grasp, IoU: 0.376 
+class contain, IoU: 0.396 
+class lift, IoU: 0.001 
+class openable, IoU: 0.201 
+class layable, IoU: 0.201 
+class sittable, IoU: 0.557 
+class support, IoU: 0.511 
+class wrap_grasp, IoU: 0.381 
+class pourable, IoU: 0.345 
+class move, IoU: 0.434 
+class displaY, IoU: 0.470 
+class pushable, IoU: 0.218 
+class pull, IoU: 0.015 
+class listen, IoU: 0.440 
+class wear, IoU: 0.307 
+class press, IoU: 0.360 
+class cut, IoU: 0.509 
+class stab, IoU: 0.070 
+class none, IoU: 0.510 
+
+eval point avg class IoU: 0.121800
+eval point accuracy: 0.470893
+eval point avg class acc: 0.246680
+------- IoU --------
+class grab, IoU: 0.080 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.543 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.059 
+class pour, IoU: 0.048 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.042 
+class push, IoU: 0.252 
+class drag, IoU: 0.000 
+class hear, IoU: 0.185 
+class clothe, IoU: 0.345 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.296 
+class jab, IoU: 0.002 
+class none, IoU: 0.454 
+
+Epoch(26) begin training........
+Train(26), loss: 0.961655, time: 1042 s
+Epoch(26) begin validating......
+eval point avg class IoU: 0.333616
+eval point accuracy: 0.641635
+eval point avg class acc: 0.606479
+------- IoU --------
+class grasp, IoU: 0.342 
+class contain, IoU: 0.391 
+class lift, IoU: 0.001 
+class openable, IoU: 0.208 
+class layable, IoU: 0.262 
+class sittable, IoU: 0.567 
+class support, IoU: 0.508 
+class wrap_grasp, IoU: 0.377 
+class pourable, IoU: 0.330 
+class move, IoU: 0.452 
+class displaY, IoU: 0.486 
+class pushable, IoU: 0.130 
+class pull, IoU: 0.032 
+class listen, IoU: 0.436 
+class wear, IoU: 0.366 
+class press, IoU: 0.329 
+class cut, IoU: 0.523 
+class stab, IoU: 0.072 
+class none, IoU: 0.527 
+
+eval point avg class IoU: 0.103043
+eval point accuracy: 0.465820
+eval point avg class acc: 0.227526
+------- IoU --------
+class grab, IoU: 0.246 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.512 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.049 
+class pour, IoU: 0.008 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.263 
+class drag, IoU: 0.000 
+class hear, IoU: 0.168 
+class clothe, IoU: 0.003 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.139 
+class jab, IoU: 0.101 
+class none, IoU: 0.452 
+
+Epoch(27) begin training........
+Train(27), loss: 0.965609, time: 1044 s
+Epoch(27) begin validating......
+eval point avg class IoU: 0.340475
+eval point accuracy: 0.650262
+eval point avg class acc: 0.604418
+------- IoU --------
+class grasp, IoU: 0.384 
+class contain, IoU: 0.395 
+class lift, IoU: 0.001 
+class openable, IoU: 0.205 
+class layable, IoU: 0.242 
+class sittable, IoU: 0.568 
+class support, IoU: 0.503 
+class wrap_grasp, IoU: 0.388 
+class pourable, IoU: 0.362 
+class move, IoU: 0.440 
+class displaY, IoU: 0.475 
+class pushable, IoU: 0.238 
+class pull, IoU: 0.001 
+class listen, IoU: 0.477 
+class wear, IoU: 0.299 
+class press, IoU: 0.334 
+class cut, IoU: 0.532 
+class stab, IoU: 0.077 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.137138
+eval point accuracy: 0.471029
+eval point avg class acc: 0.263435
+------- IoU --------
+class grab, IoU: 0.210 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.473 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.267 
+class pour, IoU: 0.039 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.022 
+class push, IoU: 0.273 
+class drag, IoU: 0.000 
+class hear, IoU: 0.296 
+class clothe, IoU: 0.326 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.184 
+class jab, IoU: 0.057 
+class none, IoU: 0.456 
+
+Saving model......
+Best mIoU: 0.340475
+Best mIoU_Zero-shot: 0.137138
+Epoch(28) begin training........
+Train(28), loss: 0.962438, time: 1042 s
+Epoch(28) begin validating......
+eval point avg class IoU: 0.327675
+eval point accuracy: 0.631357
+eval point avg class acc: 0.576998
+------- IoU --------
+class grasp, IoU: 0.366 
+class contain, IoU: 0.362 
+class lift, IoU: 0.001 
+class openable, IoU: 0.192 
+class layable, IoU: 0.113 
+class sittable, IoU: 0.522 
+class support, IoU: 0.498 
+class wrap_grasp, IoU: 0.391 
+class pourable, IoU: 0.345 
+class move, IoU: 0.448 
+class displaY, IoU: 0.470 
+class pushable, IoU: 0.226 
+class pull, IoU: 0.003 
+class listen, IoU: 0.428 
+class wear, IoU: 0.335 
+class press, IoU: 0.361 
+class cut, IoU: 0.516 
+class stab, IoU: 0.137 
+class none, IoU: 0.511 
+
+eval point avg class IoU: 0.109940
+eval point accuracy: 0.467760
+eval point avg class acc: 0.221813
+------- IoU --------
+class grab, IoU: 0.214 
+class accommodate, IoU: 0.108 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.015 
+class take a seat, IoU: 0.421 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.042 
+class pour, IoU: 0.048 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.026 
+class push, IoU: 0.254 
+class drag, IoU: 0.000 
+class hear, IoU: 0.217 
+class clothe, IoU: 0.055 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.179 
+class jab, IoU: 0.047 
+class none, IoU: 0.457 
+
+Epoch(29) begin training........
+Train(29), loss: 0.963962, time: 1031 s
+Epoch(29) begin validating......
+eval point avg class IoU: 0.334327
+eval point accuracy: 0.642465
+eval point avg class acc: 0.611588
+------- IoU --------
+class grasp, IoU: 0.362 
+class contain, IoU: 0.403 
+class lift, IoU: 0.001 
+class openable, IoU: 0.216 
+class layable, IoU: 0.210 
+class sittable, IoU: 0.566 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.370 
+class pourable, IoU: 0.367 
+class move, IoU: 0.433 
+class displaY, IoU: 0.450 
+class pushable, IoU: 0.189 
+class pull, IoU: 0.037 
+class listen, IoU: 0.462 
+class wear, IoU: 0.310 
+class press, IoU: 0.352 
+class cut, IoU: 0.461 
+class stab, IoU: 0.117 
+class none, IoU: 0.533 
+
+eval point avg class IoU: 0.136403
+eval point accuracy: 0.472603
+eval point avg class acc: 0.261496
+------- IoU --------
+class grab, IoU: 0.074 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.482 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.315 
+class pour, IoU: 0.037 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.029 
+class push, IoU: 0.256 
+class drag, IoU: 0.000 
+class hear, IoU: 0.336 
+class clothe, IoU: 0.254 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.296 
+class jab, IoU: 0.040 
+class none, IoU: 0.463 
+
+Epoch(30) begin training........
+Train(30), loss: 0.953332, time: 1024 s
+Epoch(30) begin validating......
+eval point avg class IoU: 0.352018
+eval point accuracy: 0.660377
+eval point avg class acc: 0.612781
+------- IoU --------
+class grasp, IoU: 0.377 
+class contain, IoU: 0.404 
+class lift, IoU: 0.001 
+class openable, IoU: 0.212 
+class layable, IoU: 0.273 
+class sittable, IoU: 0.583 
+class support, IoU: 0.506 
+class wrap_grasp, IoU: 0.401 
+class pourable, IoU: 0.356 
+class move, IoU: 0.440 
+class displaY, IoU: 0.516 
+class pushable, IoU: 0.255 
+class pull, IoU: 0.000 
+class listen, IoU: 0.461 
+class wear, IoU: 0.342 
+class press, IoU: 0.351 
+class cut, IoU: 0.536 
+class stab, IoU: 0.109 
+class none, IoU: 0.565 
+
+eval point avg class IoU: 0.119996
+eval point accuracy: 0.465023
+eval point avg class acc: 0.219120
+------- IoU --------
+class grab, IoU: 0.111 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.425 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.252 
+class pour, IoU: 0.041 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.269 
+class drag, IoU: 0.000 
+class hear, IoU: 0.277 
+class clothe, IoU: 0.110 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.307 
+class jab, IoU: 0.026 
+class none, IoU: 0.455 
+
+Epoch(31) begin training........
+Train(31), loss: 0.959105, time: 1027 s
+Epoch(31) begin validating......
+eval point avg class IoU: 0.332484
+eval point accuracy: 0.644982
+eval point avg class acc: 0.592208
+------- IoU --------
+class grasp, IoU: 0.365 
+class contain, IoU: 0.399 
+class lift, IoU: 0.001 
+class openable, IoU: 0.208 
+class layable, IoU: 0.263 
+class sittable, IoU: 0.563 
+class support, IoU: 0.509 
+class wrap_grasp, IoU: 0.378 
+class pourable, IoU: 0.358 
+class move, IoU: 0.441 
+class displaY, IoU: 0.469 
+class pushable, IoU: 0.177 
+class pull, IoU: 0.032 
+class listen, IoU: 0.372 
+class wear, IoU: 0.316 
+class press, IoU: 0.343 
+class cut, IoU: 0.533 
+class stab, IoU: 0.056 
+class none, IoU: 0.535 
+
+eval point avg class IoU: 0.114029
+eval point accuracy: 0.469873
+eval point avg class acc: 0.238061
+------- IoU --------
+class grab, IoU: 0.138 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.564 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.052 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.250 
+class drag, IoU: 0.000 
+class hear, IoU: 0.120 
+class clothe, IoU: 0.306 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.236 
+class jab, IoU: 0.031 
+class none, IoU: 0.455 
+
+Epoch(32) begin training........
+Train(32), loss: 0.954100, time: 1028 s
+Epoch(32) begin validating......
+eval point avg class IoU: 0.342148
+eval point accuracy: 0.655462
+eval point avg class acc: 0.610566
+------- IoU --------
+class grasp, IoU: 0.388 
+class contain, IoU: 0.402 
+class lift, IoU: 0.001 
+class openable, IoU: 0.220 
+class layable, IoU: 0.228 
+class sittable, IoU: 0.578 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.406 
+class pourable, IoU: 0.341 
+class move, IoU: 0.411 
+class displaY, IoU: 0.491 
+class pushable, IoU: 0.273 
+class pull, IoU: 0.000 
+class listen, IoU: 0.448 
+class wear, IoU: 0.318 
+class press, IoU: 0.344 
+class cut, IoU: 0.479 
+class stab, IoU: 0.091 
+class none, IoU: 0.564 
+
+eval point avg class IoU: 0.120687
+eval point accuracy: 0.468691
+eval point avg class acc: 0.225462
+------- IoU --------
+class grab, IoU: 0.119 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.511 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.046 
+class pour, IoU: 0.004 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.055 
+class push, IoU: 0.282 
+class drag, IoU: 0.000 
+class hear, IoU: 0.262 
+class clothe, IoU: 0.289 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.205 
+class jab, IoU: 0.060 
+class none, IoU: 0.454 
+
+Epoch(33) begin training........
+Train(33), loss: 0.949677, time: 1041 s
+Epoch(33) begin validating......
+eval point avg class IoU: 0.338954
+eval point accuracy: 0.657964
+eval point avg class acc: 0.595075
+------- IoU --------
+class grasp, IoU: 0.394 
+class contain, IoU: 0.405 
+class lift, IoU: 0.002 
+class openable, IoU: 0.197 
+class layable, IoU: 0.235 
+class sittable, IoU: 0.577 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.381 
+class pourable, IoU: 0.374 
+class move, IoU: 0.430 
+class displaY, IoU: 0.477 
+class pushable, IoU: 0.175 
+class pull, IoU: 0.036 
+class listen, IoU: 0.432 
+class wear, IoU: 0.336 
+class press, IoU: 0.358 
+class cut, IoU: 0.466 
+class stab, IoU: 0.084 
+class none, IoU: 0.565 
+
+eval point avg class IoU: 0.102786
+eval point accuracy: 0.472927
+eval point avg class acc: 0.210222
+------- IoU --------
+class grab, IoU: 0.171 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.555 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.096 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.004 
+class push, IoU: 0.244 
+class drag, IoU: 0.000 
+class hear, IoU: 0.124 
+class clothe, IoU: 0.005 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.203 
+class jab, IoU: 0.065 
+class none, IoU: 0.461 
+
+Epoch(34) begin training........
+Train(34), loss: 0.950527, time: 1106 s
+Epoch(34) begin validating......
+eval point avg class IoU: 0.343856
+eval point accuracy: 0.647683
+eval point avg class acc: 0.599696
+------- IoU --------
+class grasp, IoU: 0.365 
+class contain, IoU: 0.401 
+class lift, IoU: 0.002 
+class openable, IoU: 0.203 
+class layable, IoU: 0.243 
+class sittable, IoU: 0.561 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.360 
+class pourable, IoU: 0.350 
+class move, IoU: 0.440 
+class displaY, IoU: 0.494 
+class pushable, IoU: 0.278 
+class pull, IoU: 0.000 
+class listen, IoU: 0.448 
+class wear, IoU: 0.343 
+class press, IoU: 0.371 
+class cut, IoU: 0.494 
+class stab, IoU: 0.126 
+class none, IoU: 0.540 
+
+eval point avg class IoU: 0.137194
+eval point accuracy: 0.483573
+eval point avg class acc: 0.257833
+------- IoU --------
+class grab, IoU: 0.288 
+class accommodate, IoU: 0.019 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.534 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.334 
+class pour, IoU: 0.123 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.280 
+class drag, IoU: 0.000 
+class hear, IoU: 0.195 
+class clothe, IoU: 0.056 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.239 
+class jab, IoU: 0.048 
+class none, IoU: 0.463 
+
+Saving model......
+Best mIoU: 0.343856
+Best mIoU_Zero-shot: 0.137194
+Epoch(35) begin training........
+Train(35), loss: 0.947225, time: 1271 s
+Epoch(35) begin validating......
+eval point avg class IoU: 0.346874
+eval point accuracy: 0.652166
+eval point avg class acc: 0.617776
+------- IoU --------
+class grasp, IoU: 0.386 
+class contain, IoU: 0.400 
+class lift, IoU: 0.002 
+class openable, IoU: 0.215 
+class layable, IoU: 0.310 
+class sittable, IoU: 0.569 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.390 
+class pourable, IoU: 0.378 
+class move, IoU: 0.417 
+class displaY, IoU: 0.515 
+class pushable, IoU: 0.202 
+class pull, IoU: 0.038 
+class listen, IoU: 0.424 
+class wear, IoU: 0.301 
+class press, IoU: 0.319 
+class cut, IoU: 0.539 
+class stab, IoU: 0.113 
+class none, IoU: 0.556 
+
+eval point avg class IoU: 0.101511
+eval point accuracy: 0.455858
+eval point avg class acc: 0.203241
+------- IoU --------
+class grab, IoU: 0.075 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.412 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.021 
+class pour, IoU: 0.006 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.286 
+class drag, IoU: 0.000 
+class hear, IoU: 0.202 
+class clothe, IoU: 0.221 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.178 
+class jab, IoU: 0.070 
+class none, IoU: 0.448 
+
+Epoch(36) begin training........
+Train(36), loss: 0.955274, time: 1042 s
+Epoch(36) begin validating......
+eval point avg class IoU: 0.340480
+eval point accuracy: 0.650388
+eval point avg class acc: 0.607557
+------- IoU --------
+class grasp, IoU: 0.374 
+class contain, IoU: 0.393 
+class lift, IoU: 0.003 
+class openable, IoU: 0.204 
+class layable, IoU: 0.261 
+class sittable, IoU: 0.569 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.379 
+class pourable, IoU: 0.363 
+class move, IoU: 0.448 
+class displaY, IoU: 0.489 
+class pushable, IoU: 0.278 
+class pull, IoU: 0.003 
+class listen, IoU: 0.373 
+class wear, IoU: 0.320 
+class press, IoU: 0.328 
+class cut, IoU: 0.518 
+class stab, IoU: 0.107 
+class none, IoU: 0.541 
+
+eval point avg class IoU: 0.143090
+eval point accuracy: 0.478600
+eval point avg class acc: 0.258257
+------- IoU --------
+class grab, IoU: 0.128 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.011 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.520 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.333 
+class pour, IoU: 0.004 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.283 
+class drag, IoU: 0.000 
+class hear, IoU: 0.298 
+class clothe, IoU: 0.253 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.416 
+class jab, IoU: 0.006 
+class none, IoU: 0.462 
+
+Epoch(37) begin training........
+Train(37), loss: 0.941031, time: 1033 s
+Epoch(37) begin validating......
+eval point avg class IoU: 0.333215
+eval point accuracy: 0.637914
+eval point avg class acc: 0.609840
+------- IoU --------
+class grasp, IoU: 0.386 
+class contain, IoU: 0.397 
+class lift, IoU: 0.004 
+class openable, IoU: 0.197 
+class layable, IoU: 0.238 
+class sittable, IoU: 0.564 
+class support, IoU: 0.515 
+class wrap_grasp, IoU: 0.372 
+class pourable, IoU: 0.377 
+class move, IoU: 0.413 
+class displaY, IoU: 0.488 
+class pushable, IoU: 0.229 
+class pull, IoU: 0.000 
+class listen, IoU: 0.415 
+class wear, IoU: 0.218 
+class press, IoU: 0.353 
+class cut, IoU: 0.539 
+class stab, IoU: 0.095 
+class none, IoU: 0.532 
+
+eval point avg class IoU: 0.146811
+eval point accuracy: 0.484925
+eval point avg class acc: 0.283799
+------- IoU --------
+class grab, IoU: 0.072 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.012 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.540 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.334 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.259 
+class push, IoU: 0.254 
+class drag, IoU: 0.000 
+class hear, IoU: 0.265 
+class clothe, IoU: 0.320 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.248 
+class jab, IoU: 0.015 
+class none, IoU: 0.466 
+
+Epoch(38) begin training........
+Train(38), loss: 0.938635, time: 1038 s
+Epoch(38) begin validating......
+eval point avg class IoU: 0.337053
+eval point accuracy: 0.646167
+eval point avg class acc: 0.614726
+------- IoU --------
+class grasp, IoU: 0.366 
+class contain, IoU: 0.401 
+class lift, IoU: 0.003 
+class openable, IoU: 0.212 
+class layable, IoU: 0.146 
+class sittable, IoU: 0.562 
+class support, IoU: 0.500 
+class wrap_grasp, IoU: 0.384 
+class pourable, IoU: 0.367 
+class move, IoU: 0.449 
+class displaY, IoU: 0.471 
+class pushable, IoU: 0.280 
+class pull, IoU: 0.001 
+class listen, IoU: 0.453 
+class wear, IoU: 0.330 
+class press, IoU: 0.331 
+class cut, IoU: 0.546 
+class stab, IoU: 0.065 
+class none, IoU: 0.539 
+
+eval point avg class IoU: 0.114769
+eval point accuracy: 0.470716
+eval point avg class acc: 0.224074
+------- IoU --------
+class grab, IoU: 0.117 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.550 
+class bear, IoU: 0.004 
+class wrap, IoU: 0.127 
+class pour, IoU: 0.016 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.033 
+class push, IoU: 0.279 
+class drag, IoU: 0.000 
+class hear, IoU: 0.372 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.112 
+class jab, IoU: 0.098 
+class none, IoU: 0.455 
+
+Epoch(39) begin training........
+Train(39), loss: 0.937777, time: 1046 s
+Epoch(39) begin validating......
+eval point avg class IoU: 0.330637
+eval point accuracy: 0.624654
+eval point avg class acc: 0.621998
+------- IoU --------
+class grasp, IoU: 0.373 
+class contain, IoU: 0.398 
+class lift, IoU: 0.005 
+class openable, IoU: 0.204 
+class layable, IoU: 0.217 
+class sittable, IoU: 0.562 
+class support, IoU: 0.512 
+class wrap_grasp, IoU: 0.384 
+class pourable, IoU: 0.363 
+class move, IoU: 0.427 
+class displaY, IoU: 0.424 
+class pushable, IoU: 0.060 
+class pull, IoU: 0.000 
+class listen, IoU: 0.444 
+class wear, IoU: 0.366 
+class press, IoU: 0.347 
+class cut, IoU: 0.511 
+class stab, IoU: 0.178 
+class none, IoU: 0.506 
+
+eval point avg class IoU: 0.085349
+eval point accuracy: 0.444906
+eval point avg class acc: 0.201692
+------- IoU --------
+class grab, IoU: 0.153 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.026 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.419 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.041 
+class pour, IoU: 0.043 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.067 
+class drag, IoU: 0.000 
+class hear, IoU: 0.163 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.232 
+class jab, IoU: 0.019 
+class none, IoU: 0.451 
+
+Epoch(40) begin training........
+Train(40), loss: 0.907124, time: 1045 s
+Epoch(40) begin validating......
+eval point avg class IoU: 0.351298
+eval point accuracy: 0.660754
+eval point avg class acc: 0.617195
+------- IoU --------
+class grasp, IoU: 0.397 
+class contain, IoU: 0.400 
+class lift, IoU: 0.005 
+class openable, IoU: 0.224 
+class layable, IoU: 0.245 
+class sittable, IoU: 0.580 
+class support, IoU: 0.518 
+class wrap_grasp, IoU: 0.398 
+class pourable, IoU: 0.380 
+class move, IoU: 0.451 
+class displaY, IoU: 0.504 
+class pushable, IoU: 0.235 
+class pull, IoU: 0.003 
+class listen, IoU: 0.469 
+class wear, IoU: 0.340 
+class press, IoU: 0.336 
+class cut, IoU: 0.546 
+class stab, IoU: 0.085 
+class none, IoU: 0.558 
+
+eval point avg class IoU: 0.111476
+eval point accuracy: 0.470014
+eval point avg class acc: 0.205153
+------- IoU --------
+class grab, IoU: 0.127 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.010 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.561 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.013 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.285 
+class drag, IoU: 0.000 
+class hear, IoU: 0.385 
+class clothe, IoU: 0.009 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.235 
+class jab, IoU: 0.020 
+class none, IoU: 0.463 
+
+Epoch(41) begin training........
+Train(41), loss: 0.897664, time: 1056 s
+Epoch(41) begin validating......
+eval point avg class IoU: 0.349471
+eval point accuracy: 0.654752
+eval point avg class acc: 0.616705
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.412 
+class lift, IoU: 0.005 
+class openable, IoU: 0.216 
+class layable, IoU: 0.269 
+class sittable, IoU: 0.572 
+class support, IoU: 0.522 
+class wrap_grasp, IoU: 0.400 
+class pourable, IoU: 0.377 
+class move, IoU: 0.436 
+class displaY, IoU: 0.504 
+class pushable, IoU: 0.180 
+class pull, IoU: 0.005 
+class listen, IoU: 0.475 
+class wear, IoU: 0.339 
+class press, IoU: 0.336 
+class cut, IoU: 0.567 
+class stab, IoU: 0.089 
+class none, IoU: 0.550 
+
+eval point avg class IoU: 0.113376
+eval point accuracy: 0.468999
+eval point avg class acc: 0.214117
+------- IoU --------
+class grab, IoU: 0.079 
+class accommodate, IoU: 0.007 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.532 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.115 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.035 
+class push, IoU: 0.199 
+class drag, IoU: 0.000 
+class hear, IoU: 0.336 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.368 
+class jab, IoU: 0.007 
+class none, IoU: 0.455 
+
+Epoch(42) begin training........
+Train(42), loss: 0.895154, time: 1047 s
+Epoch(42) begin validating......
+eval point avg class IoU: 0.348474
+eval point accuracy: 0.648591
+eval point avg class acc: 0.631829
+------- IoU --------
+class grasp, IoU: 0.390 
+class contain, IoU: 0.412 
+class lift, IoU: 0.004 
+class openable, IoU: 0.224 
+class layable, IoU: 0.276 
+class sittable, IoU: 0.558 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.404 
+class pourable, IoU: 0.378 
+class move, IoU: 0.441 
+class displaY, IoU: 0.483 
+class pushable, IoU: 0.184 
+class pull, IoU: 0.027 
+class listen, IoU: 0.481 
+class wear, IoU: 0.336 
+class press, IoU: 0.354 
+class cut, IoU: 0.482 
+class stab, IoU: 0.136 
+class none, IoU: 0.533 
+
+eval point avg class IoU: 0.114527
+eval point accuracy: 0.462606
+eval point avg class acc: 0.225276
+------- IoU --------
+class grab, IoU: 0.159 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.488 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.036 
+class pour, IoU: 0.043 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.004 
+class push, IoU: 0.254 
+class drag, IoU: 0.000 
+class hear, IoU: 0.167 
+class clothe, IoU: 0.141 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.410 
+class jab, IoU: 0.005 
+class none, IoU: 0.462 
+
+Epoch(43) begin training........
+Train(43), loss: 0.892675, time: 1048 s
+Epoch(43) begin validating......
+eval point avg class IoU: 0.344339
+eval point accuracy: 0.659894
+eval point avg class acc: 0.611869
+------- IoU --------
+class grasp, IoU: 0.389 
+class contain, IoU: 0.425 
+class lift, IoU: 0.008 
+class openable, IoU: 0.224 
+class layable, IoU: 0.230 
+class sittable, IoU: 0.576 
+class support, IoU: 0.516 
+class wrap_grasp, IoU: 0.398 
+class pourable, IoU: 0.353 
+class move, IoU: 0.445 
+class displaY, IoU: 0.499 
+class pushable, IoU: 0.135 
+class pull, IoU: 0.028 
+class listen, IoU: 0.471 
+class wear, IoU: 0.326 
+class press, IoU: 0.345 
+class cut, IoU: 0.515 
+class stab, IoU: 0.100 
+class none, IoU: 0.560 
+
+eval point avg class IoU: 0.111323
+eval point accuracy: 0.469908
+eval point avg class acc: 0.208223
+------- IoU --------
+class grab, IoU: 0.146 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.534 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.055 
+class pour, IoU: 0.066 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.008 
+class push, IoU: 0.266 
+class drag, IoU: 0.000 
+class hear, IoU: 0.301 
+class clothe, IoU: 0.026 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.205 
+class jab, IoU: 0.048 
+class none, IoU: 0.454 
+
+Epoch(44) begin training........
+Train(44), loss: 0.890853, time: 1049 s
+Epoch(44) begin validating......
+eval point avg class IoU: 0.360661
+eval point accuracy: 0.666000
+eval point avg class acc: 0.619387
+------- IoU --------
+class grasp, IoU: 0.386 
+class contain, IoU: 0.417 
+class lift, IoU: 0.009 
+class openable, IoU: 0.217 
+class layable, IoU: 0.250 
+class sittable, IoU: 0.580 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.407 
+class pourable, IoU: 0.387 
+class move, IoU: 0.437 
+class displaY, IoU: 0.525 
+class pushable, IoU: 0.290 
+class pull, IoU: 0.001 
+class listen, IoU: 0.461 
+class wear, IoU: 0.363 
+class press, IoU: 0.368 
+class cut, IoU: 0.534 
+class stab, IoU: 0.129 
+class none, IoU: 0.572 
+
+eval point avg class IoU: 0.114813
+eval point accuracy: 0.470848
+eval point avg class acc: 0.202875
+------- IoU --------
+class grab, IoU: 0.082 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.540 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.100 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.293 
+class drag, IoU: 0.000 
+class hear, IoU: 0.354 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.265 
+class jab, IoU: 0.081 
+class none, IoU: 0.458 
+
+Epoch(45) begin training........
+Train(45), loss: 0.887420, time: 1660 s
+Epoch(45) begin validating......
+eval point avg class IoU: 0.355227
+eval point accuracy: 0.662508
+eval point avg class acc: 0.618944
+------- IoU --------
+class grasp, IoU: 0.373 
+class contain, IoU: 0.415 
+class lift, IoU: 0.006 
+class openable, IoU: 0.216 
+class layable, IoU: 0.284 
+class sittable, IoU: 0.583 
+class support, IoU: 0.512 
+class wrap_grasp, IoU: 0.400 
+class pourable, IoU: 0.380 
+class move, IoU: 0.452 
+class displaY, IoU: 0.464 
+class pushable, IoU: 0.227 
+class pull, IoU: 0.025 
+class listen, IoU: 0.449 
+class wear, IoU: 0.353 
+class press, IoU: 0.355 
+class cut, IoU: 0.542 
+class stab, IoU: 0.149 
+class none, IoU: 0.564 
+
+eval point avg class IoU: 0.124900
+eval point accuracy: 0.477611
+eval point avg class acc: 0.236399
+------- IoU --------
+class grab, IoU: 0.263 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.012 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.559 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.211 
+class pour, IoU: 0.023 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.031 
+class push, IoU: 0.279 
+class drag, IoU: 0.000 
+class hear, IoU: 0.295 
+class clothe, IoU: 0.003 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.154 
+class jab, IoU: 0.079 
+class none, IoU: 0.458 
+
+Epoch(46) begin training........
+Train(46), loss: 0.883762, time: 1339 s
+Epoch(46) begin validating......
+eval point avg class IoU: 0.353973
+eval point accuracy: 0.655403
+eval point avg class acc: 0.625550
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.413 
+class lift, IoU: 0.011 
+class openable, IoU: 0.224 
+class layable, IoU: 0.306 
+class sittable, IoU: 0.576 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.385 
+class pourable, IoU: 0.383 
+class move, IoU: 0.429 
+class displaY, IoU: 0.491 
+class pushable, IoU: 0.215 
+class pull, IoU: 0.019 
+class listen, IoU: 0.455 
+class wear, IoU: 0.339 
+class press, IoU: 0.342 
+class cut, IoU: 0.562 
+class stab, IoU: 0.117 
+class none, IoU: 0.553 
+
+eval point avg class IoU: 0.120144
+eval point accuracy: 0.468774
+eval point avg class acc: 0.221170
+------- IoU --------
+class grab, IoU: 0.050 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.547 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.015 
+class pour, IoU: 0.029 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.011 
+class push, IoU: 0.274 
+class drag, IoU: 0.000 
+class hear, IoU: 0.375 
+class clothe, IoU: 0.146 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.268 
+class jab, IoU: 0.101 
+class none, IoU: 0.456 
+
+Epoch(47) begin training........
+Train(47), loss: 0.890122, time: 1041 s
+Epoch(47) begin validating......
+eval point avg class IoU: 0.345743
+eval point accuracy: 0.653932
+eval point avg class acc: 0.635131
+------- IoU --------
+class grasp, IoU: 0.380 
+class contain, IoU: 0.409 
+class lift, IoU: 0.010 
+class openable, IoU: 0.225 
+class layable, IoU: 0.227 
+class sittable, IoU: 0.563 
+class support, IoU: 0.522 
+class wrap_grasp, IoU: 0.404 
+class pourable, IoU: 0.355 
+class move, IoU: 0.445 
+class displaY, IoU: 0.487 
+class pushable, IoU: 0.152 
+class pull, IoU: 0.035 
+class listen, IoU: 0.454 
+class wear, IoU: 0.340 
+class press, IoU: 0.334 
+class cut, IoU: 0.556 
+class stab, IoU: 0.123 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.097150
+eval point accuracy: 0.458099
+eval point avg class acc: 0.184346
+------- IoU --------
+class grab, IoU: 0.012 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.458 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.003 
+class pour, IoU: 0.038 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.009 
+class push, IoU: 0.270 
+class drag, IoU: 0.000 
+class hear, IoU: 0.364 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.227 
+class jab, IoU: 0.005 
+class none, IoU: 0.454 
+
+Epoch(48) begin training........
+Train(48), loss: 0.881090, time: 1045 s
+Epoch(48) begin validating......
+eval point avg class IoU: 0.352006
+eval point accuracy: 0.654900
+eval point avg class acc: 0.632400
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.408 
+class lift, IoU: 0.013 
+class openable, IoU: 0.224 
+class layable, IoU: 0.254 
+class sittable, IoU: 0.550 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.413 
+class pourable, IoU: 0.377 
+class move, IoU: 0.442 
+class displaY, IoU: 0.511 
+class pushable, IoU: 0.224 
+class pull, IoU: 0.008 
+class listen, IoU: 0.464 
+class wear, IoU: 0.337 
+class press, IoU: 0.351 
+class cut, IoU: 0.514 
+class stab, IoU: 0.143 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.129175
+eval point accuracy: 0.464970
+eval point avg class acc: 0.232358
+------- IoU --------
+class grab, IoU: 0.110 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.497 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.068 
+class pour, IoU: 0.018 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.246 
+class drag, IoU: 0.000 
+class hear, IoU: 0.387 
+class clothe, IoU: 0.296 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.289 
+class jab, IoU: 0.076 
+class none, IoU: 0.456 
+
+Epoch(49) begin training........
+Train(49), loss: 0.880616, time: 1046 s
+Epoch(49) begin validating......
+eval point avg class IoU: 0.354508
+eval point accuracy: 0.651142
+eval point avg class acc: 0.631649
+------- IoU --------
+class grasp, IoU: 0.388 
+class contain, IoU: 0.398 
+class lift, IoU: 0.014 
+class openable, IoU: 0.217 
+class layable, IoU: 0.270 
+class sittable, IoU: 0.565 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.405 
+class pourable, IoU: 0.377 
+class move, IoU: 0.444 
+class displaY, IoU: 0.505 
+class pushable, IoU: 0.279 
+class pull, IoU: 0.000 
+class listen, IoU: 0.455 
+class wear, IoU: 0.387 
+class press, IoU: 0.333 
+class cut, IoU: 0.487 
+class stab, IoU: 0.151 
+class none, IoU: 0.535 
+
+eval point avg class IoU: 0.108539
+eval point accuracy: 0.469939
+eval point avg class acc: 0.210812
+------- IoU --------
+class grab, IoU: 0.075 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.559 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.016 
+class pour, IoU: 0.018 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.005 
+class push, IoU: 0.295 
+class drag, IoU: 0.000 
+class hear, IoU: 0.263 
+class clothe, IoU: 0.012 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.279 
+class jab, IoU: 0.076 
+class none, IoU: 0.457 
+
+Epoch(50) begin training........
+Train(50), loss: 0.880372, time: 1051 s
+Epoch(50) begin validating......
+eval point avg class IoU: 0.347765
+eval point accuracy: 0.649694
+eval point avg class acc: 0.646451
+------- IoU --------
+class grasp, IoU: 0.391 
+class contain, IoU: 0.414 
+class lift, IoU: 0.008 
+class openable, IoU: 0.225 
+class layable, IoU: 0.265 
+class sittable, IoU: 0.564 
+class support, IoU: 0.516 
+class wrap_grasp, IoU: 0.425 
+class pourable, IoU: 0.371 
+class move, IoU: 0.429 
+class displaY, IoU: 0.504 
+class pushable, IoU: 0.262 
+class pull, IoU: 0.000 
+class listen, IoU: 0.442 
+class wear, IoU: 0.357 
+class press, IoU: 0.324 
+class cut, IoU: 0.456 
+class stab, IoU: 0.117 
+class none, IoU: 0.538 
+
+eval point avg class IoU: 0.120964
+eval point accuracy: 0.469884
+eval point avg class acc: 0.239329
+------- IoU --------
+class grab, IoU: 0.076 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.523 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.139 
+class pour, IoU: 0.014 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.025 
+class push, IoU: 0.273 
+class drag, IoU: 0.000 
+class hear, IoU: 0.164 
+class clothe, IoU: 0.232 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.382 
+class jab, IoU: 0.006 
+class none, IoU: 0.461 
+
+Epoch(51) begin training........
+Train(51), loss: 0.882230, time: 1046 s
+Epoch(51) begin validating......
+eval point avg class IoU: 0.358638
+eval point accuracy: 0.655737
+eval point avg class acc: 0.639089
+------- IoU --------
+class grasp, IoU: 0.380 
+class contain, IoU: 0.408 
+class lift, IoU: 0.013 
+class openable, IoU: 0.230 
+class layable, IoU: 0.274 
+class sittable, IoU: 0.579 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.398 
+class pourable, IoU: 0.376 
+class move, IoU: 0.451 
+class displaY, IoU: 0.514 
+class pushable, IoU: 0.222 
+class pull, IoU: 0.014 
+class listen, IoU: 0.444 
+class wear, IoU: 0.366 
+class press, IoU: 0.398 
+class cut, IoU: 0.556 
+class stab, IoU: 0.125 
+class none, IoU: 0.543 
+
+eval point avg class IoU: 0.124406
+eval point accuracy: 0.464389
+eval point avg class acc: 0.228452
+------- IoU --------
+class grab, IoU: 0.074 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.433 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.226 
+class pour, IoU: 0.019 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.018 
+class push, IoU: 0.253 
+class drag, IoU: 0.000 
+class hear, IoU: 0.310 
+class clothe, IoU: 0.251 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.310 
+class jab, IoU: 0.005 
+class none, IoU: 0.455 
+
+Epoch(52) begin training........
+Train(52), loss: 0.877119, time: 1046 s
+Epoch(52) begin validating......
+eval point avg class IoU: 0.349890
+eval point accuracy: 0.652698
+eval point avg class acc: 0.627326
+------- IoU --------
+class grasp, IoU: 0.367 
+class contain, IoU: 0.410 
+class lift, IoU: 0.008 
+class openable, IoU: 0.218 
+class layable, IoU: 0.237 
+class sittable, IoU: 0.569 
+class support, IoU: 0.518 
+class wrap_grasp, IoU: 0.400 
+class pourable, IoU: 0.366 
+class move, IoU: 0.428 
+class displaY, IoU: 0.518 
+class pushable, IoU: 0.199 
+class pull, IoU: 0.045 
+class listen, IoU: 0.469 
+class wear, IoU: 0.329 
+class press, IoU: 0.347 
+class cut, IoU: 0.546 
+class stab, IoU: 0.124 
+class none, IoU: 0.550 
+
+eval point avg class IoU: 0.126549
+eval point accuracy: 0.471466
+eval point avg class acc: 0.239885
+------- IoU --------
+class grab, IoU: 0.085 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.553 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.075 
+class pour, IoU: 0.004 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.240 
+class drag, IoU: 0.000 
+class hear, IoU: 0.411 
+class clothe, IoU: 0.349 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.215 
+class jab, IoU: 0.005 
+class none, IoU: 0.460 
+
+Epoch(53) begin training........
+Train(53), loss: 0.879019, time: 1050 s
+Epoch(53) begin validating......
+eval point avg class IoU: 0.343303
+eval point accuracy: 0.652714
+eval point avg class acc: 0.622706
+------- IoU --------
+class grasp, IoU: 0.384 
+class contain, IoU: 0.416 
+class lift, IoU: 0.011 
+class openable, IoU: 0.230 
+class layable, IoU: 0.212 
+class sittable, IoU: 0.543 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.421 
+class pourable, IoU: 0.389 
+class move, IoU: 0.433 
+class displaY, IoU: 0.508 
+class pushable, IoU: 0.210 
+class pull, IoU: 0.002 
+class listen, IoU: 0.383 
+class wear, IoU: 0.305 
+class press, IoU: 0.356 
+class cut, IoU: 0.531 
+class stab, IoU: 0.123 
+class none, IoU: 0.547 
+
+eval point avg class IoU: 0.120576
+eval point accuracy: 0.468625
+eval point avg class acc: 0.244330
+------- IoU --------
+class grab, IoU: 0.095 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.012 
+class take a seat, IoU: 0.499 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.152 
+class pour, IoU: 0.025 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.008 
+class push, IoU: 0.241 
+class drag, IoU: 0.000 
+class hear, IoU: 0.241 
+class clothe, IoU: 0.241 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.221 
+class jab, IoU: 0.082 
+class none, IoU: 0.463 
+
+Epoch(54) begin training........
+Train(54), loss: 0.876701, time: 1050 s
+Epoch(54) begin validating......
+eval point avg class IoU: 0.355998
+eval point accuracy: 0.660074
+eval point avg class acc: 0.632325
+------- IoU --------
+class grasp, IoU: 0.399 
+class contain, IoU: 0.388 
+class lift, IoU: 0.013 
+class openable, IoU: 0.220 
+class layable, IoU: 0.249 
+class sittable, IoU: 0.579 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.410 
+class pourable, IoU: 0.373 
+class move, IoU: 0.442 
+class displaY, IoU: 0.512 
+class pushable, IoU: 0.278 
+class pull, IoU: 0.000 
+class listen, IoU: 0.425 
+class wear, IoU: 0.364 
+class press, IoU: 0.358 
+class cut, IoU: 0.590 
+class stab, IoU: 0.085 
+class none, IoU: 0.558 
+
+eval point avg class IoU: 0.098006
+eval point accuracy: 0.461101
+eval point avg class acc: 0.186526
+------- IoU --------
+class grab, IoU: 0.092 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.471 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.001 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.004 
+class push, IoU: 0.276 
+class drag, IoU: 0.000 
+class hear, IoU: 0.311 
+class clothe, IoU: 0.005 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.234 
+class jab, IoU: 0.001 
+class none, IoU: 0.453 
+
+Epoch(55) begin training........
+Train(55), loss: 0.873622, time: 1051 s
+Epoch(55) begin validating......
+eval point avg class IoU: 0.354918
+eval point accuracy: 0.655737
+eval point avg class acc: 0.635966
+------- IoU --------
+class grasp, IoU: 0.389 
+class contain, IoU: 0.407 
+class lift, IoU: 0.013 
+class openable, IoU: 0.225 
+class layable, IoU: 0.253 
+class sittable, IoU: 0.577 
+class support, IoU: 0.522 
+class wrap_grasp, IoU: 0.404 
+class pourable, IoU: 0.374 
+class move, IoU: 0.425 
+class displaY, IoU: 0.516 
+class pushable, IoU: 0.255 
+class pull, IoU: 0.000 
+class listen, IoU: 0.431 
+class wear, IoU: 0.360 
+class press, IoU: 0.364 
+class cut, IoU: 0.563 
+class stab, IoU: 0.111 
+class none, IoU: 0.553 
+
+eval point avg class IoU: 0.116985
+eval point accuracy: 0.457764
+eval point avg class acc: 0.212738
+------- IoU --------
+class grab, IoU: 0.068 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.415 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.017 
+class pour, IoU: 0.012 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.273 
+class drag, IoU: 0.000 
+class hear, IoU: 0.356 
+class clothe, IoU: 0.280 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.338 
+class jab, IoU: 0.004 
+class none, IoU: 0.452 
+
+Epoch(56) begin training........
+Train(56), loss: 0.872128, time: 1060 s
+Epoch(56) begin validating......
+eval point avg class IoU: 0.361023
+eval point accuracy: 0.659042
+eval point avg class acc: 0.636253
+------- IoU --------
+class grasp, IoU: 0.377 
+class contain, IoU: 0.390 
+class lift, IoU: 0.017 
+class openable, IoU: 0.218 
+class layable, IoU: 0.281 
+class sittable, IoU: 0.583 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.405 
+class pourable, IoU: 0.387 
+class move, IoU: 0.440 
+class displaY, IoU: 0.500 
+class pushable, IoU: 0.288 
+class pull, IoU: 0.000 
+class listen, IoU: 0.469 
+class wear, IoU: 0.360 
+class press, IoU: 0.373 
+class cut, IoU: 0.545 
+class stab, IoU: 0.154 
+class none, IoU: 0.559 
+
+eval point avg class IoU: 0.144565
+eval point accuracy: 0.478526
+eval point avg class acc: 0.254845
+------- IoU --------
+class grab, IoU: 0.230 
+class accommodate, IoU: 0.013 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.505 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.229 
+class pour, IoU: 0.050 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.060 
+class push, IoU: 0.291 
+class drag, IoU: 0.000 
+class hear, IoU: 0.226 
+class clothe, IoU: 0.300 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.373 
+class jab, IoU: 0.004 
+class none, IoU: 0.462 
+
+Saving model......
+Best mIoU: 0.361023
+Best mIoU_Zero-shot: 0.144565
+Epoch(57) begin training........
+Train(57), loss: 0.872641, time: 1058 s
+Epoch(57) begin validating......
+eval point avg class IoU: 0.346725
+eval point accuracy: 0.649530
+eval point avg class acc: 0.652595
+------- IoU --------
+class grasp, IoU: 0.382 
+class contain, IoU: 0.413 
+class lift, IoU: 0.014 
+class openable, IoU: 0.221 
+class layable, IoU: 0.250 
+class sittable, IoU: 0.581 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.412 
+class pourable, IoU: 0.396 
+class move, IoU: 0.457 
+class displaY, IoU: 0.495 
+class pushable, IoU: 0.273 
+class pull, IoU: 0.000 
+class listen, IoU: 0.437 
+class wear, IoU: 0.347 
+class press, IoU: 0.311 
+class cut, IoU: 0.426 
+class stab, IoU: 0.129 
+class none, IoU: 0.524 
+
+eval point avg class IoU: 0.105441
+eval point accuracy: 0.460914
+eval point avg class acc: 0.204881
+------- IoU --------
+class grab, IoU: 0.123 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.471 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.011 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.010 
+class push, IoU: 0.293 
+class drag, IoU: 0.000 
+class hear, IoU: 0.346 
+class clothe, IoU: 0.038 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.198 
+class jab, IoU: 0.060 
+class none, IoU: 0.449 
+
+Epoch(58) begin training........
+Train(58), loss: 0.872767, time: 1048 s
+Epoch(58) begin validating......
+eval point avg class IoU: 0.355107
+eval point accuracy: 0.659373
+eval point avg class acc: 0.637837
+------- IoU --------
+class grasp, IoU: 0.393 
+class contain, IoU: 0.421 
+class lift, IoU: 0.009 
+class openable, IoU: 0.230 
+class layable, IoU: 0.291 
+class sittable, IoU: 0.583 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.425 
+class pourable, IoU: 0.386 
+class move, IoU: 0.455 
+class displaY, IoU: 0.467 
+class pushable, IoU: 0.233 
+class pull, IoU: 0.005 
+class listen, IoU: 0.426 
+class wear, IoU: 0.321 
+class press, IoU: 0.361 
+class cut, IoU: 0.535 
+class stab, IoU: 0.139 
+class none, IoU: 0.549 
+
+eval point avg class IoU: 0.132865
+eval point accuracy: 0.475336
+eval point avg class acc: 0.257525
+------- IoU --------
+class grab, IoU: 0.159 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.531 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.044 
+class pour, IoU: 0.051 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.217 
+class push, IoU: 0.259 
+class drag, IoU: 0.000 
+class hear, IoU: 0.245 
+class clothe, IoU: 0.199 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.269 
+class jab, IoU: 0.088 
+class none, IoU: 0.459 
+
+Epoch(59) begin training........
+Train(59), loss: 0.872988, time: 1046 s
+Epoch(59) begin validating......
+eval point avg class IoU: 0.357027
+eval point accuracy: 0.660044
+eval point avg class acc: 0.645862
+------- IoU --------
+class grasp, IoU: 0.392 
+class contain, IoU: 0.416 
+class lift, IoU: 0.016 
+class openable, IoU: 0.219 
+class layable, IoU: 0.276 
+class sittable, IoU: 0.562 
+class support, IoU: 0.516 
+class wrap_grasp, IoU: 0.406 
+class pourable, IoU: 0.367 
+class move, IoU: 0.452 
+class displaY, IoU: 0.518 
+class pushable, IoU: 0.294 
+class pull, IoU: 0.000 
+class listen, IoU: 0.455 
+class wear, IoU: 0.350 
+class press, IoU: 0.333 
+class cut, IoU: 0.520 
+class stab, IoU: 0.139 
+class none, IoU: 0.553 
+
+eval point avg class IoU: 0.126563
+eval point accuracy: 0.472296
+eval point avg class acc: 0.231468
+------- IoU --------
+class grab, IoU: 0.138 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.007 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.533 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.108 
+class pour, IoU: 0.075 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.305 
+class drag, IoU: 0.000 
+class hear, IoU: 0.183 
+class clothe, IoU: 0.222 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.364 
+class jab, IoU: 0.006 
+class none, IoU: 0.461 
+
+Epoch(60) begin training........
+Use 1 GPUs: 0
+Set seed to 1
+Epoch(0) begin training........
+Use 1 GPUs: 1
+Set seed to 1
+Epoch(0) begin training........
+Train(0), loss: 2.303015, time: 685 s
+Epoch(0) begin validating......
+eval point avg class IoU: 0.098435
+eval point accuracy: 0.323751
+eval point avg class acc: 0.331984
+------- IoU --------
+class grasp, IoU: 0.002 
+class contain, IoU: 0.017 
+class lift, IoU: 0.001 
+class openable, IoU: 0.053 
+class layable, IoU: 0.013 
+class sittable, IoU: 0.485 
+class support, IoU: 0.433 
+class wrap_grasp, IoU: 0.018 
+class pourable, IoU: 0.139 
+class move, IoU: 0.380 
+class displaY, IoU: 0.179 
+class pushable, IoU: 0.007 
+class pull, IoU: 0.000 
+class listen, IoU: 0.012 
+class wear, IoU: 0.001 
+class press, IoU: 0.079 
+class cut, IoU: 0.003 
+class stab, IoU: 0.023 
+class none, IoU: 0.026 
+
+eval point avg class IoU: 0.028666
+eval point accuracy: 0.098168
+eval point avg class acc: 0.123681
+------- IoU --------
+class grab, IoU: 0.001 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.021 
+class rest, IoU: 0.003 
+class take a seat, IoU: 0.222 
+class bear, IoU: 0.025 
+class wrap, IoU: 0.006 
+class pour, IoU: 0.004 
+class reposition, IoU: 0.017 
+class demonstrate, IoU: 0.087 
+class push, IoU: 0.052 
+class drag, IoU: 0.000 
+class hear, IoU: 0.008 
+class clothe, IoU: 0.002 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.000 
+class jab, IoU: 0.005 
+class none, IoU: 0.086 
+
+Saving model......
+Best mIoU: 0.098435
+Best mIoU_Zero-shot: 0.028666
+Epoch(1) begin training........
+Train(1), loss: 1.970945, time: 682 s
+Epoch(1) begin validating......
+eval point avg class IoU: 0.106941
+eval point accuracy: 0.348696
+eval point avg class acc: 0.344603
+------- IoU --------
+class grasp, IoU: 0.006 
+class contain, IoU: 0.008 
+class lift, IoU: 0.000 
+class openable, IoU: 0.036 
+class layable, IoU: 0.017 
+class sittable, IoU: 0.455 
+class support, IoU: 0.455 
+class wrap_grasp, IoU: 0.008 
+class pourable, IoU: 0.188 
+class move, IoU: 0.374 
+class displaY, IoU: 0.232 
+class pushable, IoU: 0.000 
+class pull, IoU: 0.000 
+class listen, IoU: 0.002 
+class wear, IoU: 0.012 
+class press, IoU: 0.087 
+class cut, IoU: 0.016 
+class stab, IoU: 0.033 
+class none, IoU: 0.102 
+
+eval point avg class IoU: 0.047078
+eval point accuracy: 0.218525
+eval point avg class acc: 0.114274
+------- IoU --------
+class grab, IoU: 0.004 
+class accommodate, IoU: 0.023 
+class raise, IoU: 0.001 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.497 
+class bear, IoU: 0.003 
+class wrap, IoU: 0.019 
+class pour, IoU: 0.073 
+class reposition, IoU: 0.007 
+class demonstrate, IoU: 0.041 
+class push, IoU: 0.005 
+class drag, IoU: 0.000 
+class hear, IoU: 0.006 
+class clothe, IoU: 0.001 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.000 
+class jab, IoU: 0.003 
+class none, IoU: 0.205 
+
+Saving model......
+Best mIoU: 0.106941
+Best mIoU_Zero-shot: 0.047078
+Epoch(2) begin training........
+Train(2), loss: 1.782267, time: 679 s
+Epoch(2) begin validating......
+eval point avg class IoU: 0.141421
+eval point accuracy: 0.468076
+eval point avg class acc: 0.400198
+------- IoU --------
+class grasp, IoU: 0.005 
+class contain, IoU: 0.003 
+class lift, IoU: 0.000 
+class openable, IoU: 0.041 
+class layable, IoU: 0.042 
+class sittable, IoU: 0.419 
+class support, IoU: 0.479 
+class wrap_grasp, IoU: 0.001 
+class pourable, IoU: 0.191 
+class move, IoU: 0.389 
+class displaY, IoU: 0.261 
+class pushable, IoU: 0.097 
+class pull, IoU: 0.000 
+class listen, IoU: 0.001 
+class wear, IoU: 0.092 
+class press, IoU: 0.104 
+class cut, IoU: 0.191 
+class stab, IoU: 0.029 
+class none, IoU: 0.345 
+
+eval point avg class IoU: 0.060169
+eval point accuracy: 0.283141
+eval point avg class acc: 0.173988
+------- IoU --------
+class grab, IoU: 0.003 
+class accommodate, IoU: 0.099 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.003 
+class take a seat, IoU: 0.417 
+class bear, IoU: 0.002 
+class wrap, IoU: 0.002 
+class pour, IoU: 0.065 
+class reposition, IoU: 0.007 
+class demonstrate, IoU: 0.090 
+class push, IoU: 0.027 
+class drag, IoU: 0.000 
+class hear, IoU: 0.015 
+class clothe, IoU: 0.002 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.046 
+class jab, IoU: 0.044 
+class none, IoU: 0.319 
+
+Saving model......
+Best mIoU: 0.141421
+Best mIoU_Zero-shot: 0.060169
+Epoch(3) begin training........
+Train(3), loss: 1.591868, time: 682 s
+Epoch(3) begin validating......
+eval point avg class IoU: 0.206295
+eval point accuracy: 0.541133
+eval point avg class acc: 0.448895
+------- IoU --------
+class grasp, IoU: 0.246 
+class contain, IoU: 0.023 
+class lift, IoU: 0.004 
+class openable, IoU: 0.076 
+class layable, IoU: 0.049 
+class sittable, IoU: 0.532 
+class support, IoU: 0.501 
+class wrap_grasp, IoU: 0.233 
+class pourable, IoU: 0.294 
+class move, IoU: 0.414 
+class displaY, IoU: 0.370 
+class pushable, IoU: 0.118 
+class pull, IoU: 0.000 
+class listen, IoU: 0.135 
+class wear, IoU: 0.087 
+class press, IoU: 0.118 
+class cut, IoU: 0.217 
+class stab, IoU: 0.075 
+class none, IoU: 0.427 
+
+eval point avg class IoU: 0.051953
+eval point accuracy: 0.313726
+eval point avg class acc: 0.105069
+------- IoU --------
+class grab, IoU: 0.010 
+class accommodate, IoU: 0.058 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.008 
+class rest, IoU: 0.013 
+class take a seat, IoU: 0.192 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.057 
+class pour, IoU: 0.018 
+class reposition, IoU: 0.001 
+class demonstrate, IoU: 0.080 
+class push, IoU: 0.030 
+class drag, IoU: 0.000 
+class hear, IoU: 0.046 
+class clothe, IoU: 0.004 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.122 
+class jab, IoU: 0.000 
+class none, IoU: 0.349 
+
+Epoch(4) begin training........
+Train(4), loss: 1.367675, time: 681 s
+Epoch(4) begin validating......
+eval point avg class IoU: 0.263028
+eval point accuracy: 0.586584
+eval point avg class acc: 0.504123
+------- IoU --------
+class grasp, IoU: 0.291 
+class contain, IoU: 0.262 
+class lift, IoU: 0.008 
+class openable, IoU: 0.137 
+class layable, IoU: 0.055 
+class sittable, IoU: 0.546 
+class support, IoU: 0.503 
+class wrap_grasp, IoU: 0.242 
+class pourable, IoU: 0.291 
+class move, IoU: 0.437 
+class displaY, IoU: 0.443 
+class pushable, IoU: 0.168 
+class pull, IoU: 0.011 
+class listen, IoU: 0.339 
+class wear, IoU: 0.185 
+class press, IoU: 0.181 
+class cut, IoU: 0.367 
+class stab, IoU: 0.078 
+class none, IoU: 0.453 
+
+eval point avg class IoU: 0.127624
+eval point accuracy: 0.426012
+eval point avg class acc: 0.253754
+------- IoU --------
+class grab, IoU: 0.181 
+class accommodate, IoU: 0.020 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.012 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.475 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.255 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.002 
+class demonstrate, IoU: 0.008 
+class push, IoU: 0.218 
+class drag, IoU: 0.000 
+class hear, IoU: 0.172 
+class clothe, IoU: 0.238 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.397 
+class jab, IoU: 0.013 
+class none, IoU: 0.432 
+
+Saving model......
+Best mIoU: 0.263028
+Best mIoU_Zero-shot: 0.127624
+Epoch(5) begin training........
+Train(5), loss: 1.279136, time: 682 s
+Epoch(5) begin validating......
+eval point avg class IoU: 0.262717
+eval point accuracy: 0.603967
+eval point avg class acc: 0.500586
+------- IoU --------
+class grasp, IoU: 0.304 
+class contain, IoU: 0.277 
+class lift, IoU: 0.008 
+class openable, IoU: 0.162 
+class layable, IoU: 0.146 
+class sittable, IoU: 0.544 
+class support, IoU: 0.484 
+class wrap_grasp, IoU: 0.272 
+class pourable, IoU: 0.336 
+class move, IoU: 0.420 
+class displaY, IoU: 0.457 
+class pushable, IoU: 0.147 
+class pull, IoU: 0.004 
+class listen, IoU: 0.304 
+class wear, IoU: 0.228 
+class press, IoU: 0.248 
+class cut, IoU: 0.110 
+class stab, IoU: 0.042 
+class none, IoU: 0.499 
+
+eval point avg class IoU: 0.110092
+eval point accuracy: 0.444629
+eval point avg class acc: 0.215807
+------- IoU --------
+class grab, IoU: 0.199 
+class accommodate, IoU: 0.059 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.510 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.058 
+class pour, IoU: 0.041 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.077 
+class push, IoU: 0.198 
+class drag, IoU: 0.000 
+class hear, IoU: 0.060 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.002 
+class slice, IoU: 0.401 
+class jab, IoU: 0.026 
+class none, IoU: 0.446 
+
+Epoch(6) begin training........
+Train(6), loss: 1.275633, time: 680 s
+Epoch(6) begin validating......
+eval point avg class IoU: 0.284801
+eval point accuracy: 0.614206
+eval point avg class acc: 0.548100
+------- IoU --------
+class grasp, IoU: 0.346 
+class contain, IoU: 0.287 
+class lift, IoU: 0.017 
+class openable, IoU: 0.176 
+class layable, IoU: 0.140 
+class sittable, IoU: 0.547 
+class support, IoU: 0.496 
+class wrap_grasp, IoU: 0.316 
+class pourable, IoU: 0.362 
+class move, IoU: 0.428 
+class displaY, IoU: 0.377 
+class pushable, IoU: 0.108 
+class pull, IoU: 0.000 
+class listen, IoU: 0.410 
+class wear, IoU: 0.134 
+class press, IoU: 0.247 
+class cut, IoU: 0.381 
+class stab, IoU: 0.139 
+class none, IoU: 0.503 
+
+eval point avg class IoU: 0.102838
+eval point accuracy: 0.436312
+eval point avg class acc: 0.186787
+------- IoU --------
+class grab, IoU: 0.139 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.242 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.148 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.015 
+class push, IoU: 0.142 
+class drag, IoU: 0.000 
+class hear, IoU: 0.237 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.487 
+class jab, IoU: 0.106 
+class none, IoU: 0.430 
+
+Epoch(7) begin training........
+Train(7), loss: 1.182903, time: 682 s
+Epoch(7) begin validating......
+eval point avg class IoU: 0.294881
+eval point accuracy: 0.625309
+eval point avg class acc: 0.585232
+------- IoU --------
+class grasp, IoU: 0.370 
+class contain, IoU: 0.322 
+class lift, IoU: 0.033 
+class openable, IoU: 0.192 
+class layable, IoU: 0.141 
+class sittable, IoU: 0.563 
+class support, IoU: 0.504 
+class wrap_grasp, IoU: 0.345 
+class pourable, IoU: 0.337 
+class move, IoU: 0.450 
+class displaY, IoU: 0.479 
+class pushable, IoU: 0.111 
+class pull, IoU: 0.022 
+class listen, IoU: 0.302 
+class wear, IoU: 0.180 
+class press, IoU: 0.215 
+class cut, IoU: 0.395 
+class stab, IoU: 0.133 
+class none, IoU: 0.507 
+
+eval point avg class IoU: 0.111792
+eval point accuracy: 0.429610
+eval point avg class acc: 0.233537
+------- IoU --------
+class grab, IoU: 0.252 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.112 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.197 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.161 
+class drag, IoU: 0.000 
+class hear, IoU: 0.298 
+class clothe, IoU: 0.187 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.484 
+class jab, IoU: 0.000 
+class none, IoU: 0.430 
+
+Epoch(8) begin training........
+Train(8), loss: 1.192736, time: 682 s
+Epoch(8) begin validating......
+eval point avg class IoU: 0.285789
+eval point accuracy: 0.608315
+eval point avg class acc: 0.532729
+------- IoU --------
+class grasp, IoU: 0.333 
+class contain, IoU: 0.274 
+class lift, IoU: 0.068 
+class openable, IoU: 0.160 
+class layable, IoU: 0.073 
+class sittable, IoU: 0.556 
+class support, IoU: 0.496 
+class wrap_grasp, IoU: 0.322 
+class pourable, IoU: 0.324 
+class move, IoU: 0.426 
+class displaY, IoU: 0.465 
+class pushable, IoU: 0.190 
+class pull, IoU: 0.000 
+class listen, IoU: 0.396 
+class wear, IoU: 0.102 
+class press, IoU: 0.297 
+class cut, IoU: 0.359 
+class stab, IoU: 0.101 
+class none, IoU: 0.487 
+
+eval point avg class IoU: 0.125264
+eval point accuracy: 0.449999
+eval point avg class acc: 0.252532
+------- IoU --------
+class grab, IoU: 0.144 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.002 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.467 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.076 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.047 
+class push, IoU: 0.204 
+class drag, IoU: 0.000 
+class hear, IoU: 0.206 
+class clothe, IoU: 0.275 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.429 
+class jab, IoU: 0.091 
+class none, IoU: 0.437 
+
+Epoch(9) begin training........
+Train(9), loss: 1.166358, time: 680 s
+Epoch(9) begin validating......
+eval point avg class IoU: 0.296042
+eval point accuracy: 0.623114
+eval point avg class acc: 0.565255
+------- IoU --------
+class grasp, IoU: 0.362 
+class contain, IoU: 0.313 
+class lift, IoU: 0.026 
+class openable, IoU: 0.199 
+class layable, IoU: 0.080 
+class sittable, IoU: 0.564 
+class support, IoU: 0.506 
+class wrap_grasp, IoU: 0.346 
+class pourable, IoU: 0.342 
+class move, IoU: 0.442 
+class displaY, IoU: 0.418 
+class pushable, IoU: 0.092 
+class pull, IoU: 0.009 
+class listen, IoU: 0.403 
+class wear, IoU: 0.253 
+class press, IoU: 0.234 
+class cut, IoU: 0.414 
+class stab, IoU: 0.112 
+class none, IoU: 0.511 
+
+eval point avg class IoU: 0.094957
+eval point accuracy: 0.446073
+eval point avg class acc: 0.192756
+------- IoU --------
+class grab, IoU: 0.105 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.426 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.124 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.030 
+class push, IoU: 0.099 
+class drag, IoU: 0.000 
+class hear, IoU: 0.232 
+class clothe, IoU: 0.092 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.255 
+class jab, IoU: 0.001 
+class none, IoU: 0.436 
+
+Epoch(10) begin training........
+Train(10), loss: 1.133832, time: 678 s
+Epoch(10) begin validating......
+eval point avg class IoU: 0.303456
+eval point accuracy: 0.625318
+eval point avg class acc: 0.560168
+------- IoU --------
+class grasp, IoU: 0.353 
+class contain, IoU: 0.332 
+class lift, IoU: 0.012 
+class openable, IoU: 0.198 
+class layable, IoU: 0.093 
+class sittable, IoU: 0.567 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.321 
+class pourable, IoU: 0.325 
+class move, IoU: 0.443 
+class displaY, IoU: 0.451 
+class pushable, IoU: 0.177 
+class pull, IoU: 0.000 
+class listen, IoU: 0.431 
+class wear, IoU: 0.266 
+class press, IoU: 0.275 
+class cut, IoU: 0.440 
+class stab, IoU: 0.063 
+class none, IoU: 0.505 
+
+eval point avg class IoU: 0.134999
+eval point accuracy: 0.451972
+eval point avg class acc: 0.242166
+------- IoU --------
+class grab, IoU: 0.103 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.002 
+class take a seat, IoU: 0.346 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.285 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.010 
+class push, IoU: 0.238 
+class drag, IoU: 0.000 
+class hear, IoU: 0.346 
+class clothe, IoU: 0.307 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.474 
+class jab, IoU: 0.008 
+class none, IoU: 0.445 
+
+Saving model......
+Best mIoU: 0.303456
+Best mIoU_Zero-shot: 0.134999
+Epoch(11) begin training........
+Train(11), loss: 1.121056, time: 680 s
+Epoch(11) begin validating......
+eval point avg class IoU: 0.304495
+eval point accuracy: 0.615437
+eval point avg class acc: 0.582202
+------- IoU --------
+class grasp, IoU: 0.355 
+class contain, IoU: 0.341 
+class lift, IoU: 0.132 
+class openable, IoU: 0.187 
+class layable, IoU: 0.094 
+class sittable, IoU: 0.530 
+class support, IoU: 0.503 
+class wrap_grasp, IoU: 0.357 
+class pourable, IoU: 0.317 
+class move, IoU: 0.428 
+class displaY, IoU: 0.465 
+class pushable, IoU: 0.133 
+class pull, IoU: 0.008 
+class listen, IoU: 0.371 
+class wear, IoU: 0.329 
+class press, IoU: 0.184 
+class cut, IoU: 0.501 
+class stab, IoU: 0.057 
+class none, IoU: 0.492 
+
+eval point avg class IoU: 0.142553
+eval point accuracy: 0.448485
+eval point avg class acc: 0.305521
+------- IoU --------
+class grab, IoU: 0.247 
+class accommodate, IoU: 0.043 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.025 
+class rest, IoU: 0.007 
+class take a seat, IoU: 0.482 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.300 
+class pour, IoU: 0.005 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.056 
+class push, IoU: 0.179 
+class drag, IoU: 0.000 
+class hear, IoU: 0.058 
+class clothe, IoU: 0.336 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.480 
+class jab, IoU: 0.043 
+class none, IoU: 0.448 
+
+Saving model......
+Best mIoU: 0.304495
+Best mIoU_Zero-shot: 0.142553
+Epoch(12) begin training........
+Train(12), loss: 1.081038, time: 680 s
+Epoch(12) begin validating......
+eval point avg class IoU: 0.314409
+eval point accuracy: 0.613869
+eval point avg class acc: 0.606197
+------- IoU --------
+class grasp, IoU: 0.355 
+class contain, IoU: 0.329 
+class lift, IoU: 0.159 
+class openable, IoU: 0.203 
+class layable, IoU: 0.137 
+class sittable, IoU: 0.540 
+class support, IoU: 0.504 
+class wrap_grasp, IoU: 0.344 
+class pourable, IoU: 0.346 
+class move, IoU: 0.440 
+class displaY, IoU: 0.490 
+class pushable, IoU: 0.134 
+class pull, IoU: 0.033 
+class listen, IoU: 0.442 
+class wear, IoU: 0.256 
+class press, IoU: 0.159 
+class cut, IoU: 0.520 
+class stab, IoU: 0.107 
+class none, IoU: 0.476 
+
+eval point avg class IoU: 0.136638
+eval point accuracy: 0.450208
+eval point avg class acc: 0.276088
+------- IoU --------
+class grab, IoU: 0.208 
+class accommodate, IoU: 0.009 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.038 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.440 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.219 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.035 
+class push, IoU: 0.210 
+class drag, IoU: 0.000 
+class hear, IoU: 0.245 
+class clothe, IoU: 0.319 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.404 
+class jab, IoU: 0.024 
+class none, IoU: 0.444 
+
+Epoch(13) begin training........
+Train(13), loss: 1.089101, time: 680 s
+Epoch(13) begin validating......
+eval point avg class IoU: 0.321980
+eval point accuracy: 0.630423
+eval point avg class acc: 0.608087
+------- IoU --------
+class grasp, IoU: 0.359 
+class contain, IoU: 0.335 
+class lift, IoU: 0.085 
+class openable, IoU: 0.211 
+class layable, IoU: 0.211 
+class sittable, IoU: 0.567 
+class support, IoU: 0.507 
+class wrap_grasp, IoU: 0.365 
+class pourable, IoU: 0.346 
+class move, IoU: 0.459 
+class displaY, IoU: 0.463 
+class pushable, IoU: 0.203 
+class pull, IoU: 0.000 
+class listen, IoU: 0.461 
+class wear, IoU: 0.266 
+class press, IoU: 0.210 
+class cut, IoU: 0.435 
+class stab, IoU: 0.132 
+class none, IoU: 0.502 
+
+eval point avg class IoU: 0.147387
+eval point accuracy: 0.458605
+eval point avg class acc: 0.274635
+------- IoU --------
+class grab, IoU: 0.263 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.010 
+class rest, IoU: 0.002 
+class take a seat, IoU: 0.460 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.272 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.095 
+class push, IoU: 0.231 
+class drag, IoU: 0.000 
+class hear, IoU: 0.201 
+class clothe, IoU: 0.242 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.499 
+class jab, IoU: 0.074 
+class none, IoU: 0.443 
+
+Saving model......
+Best mIoU: 0.321980
+Best mIoU_Zero-shot: 0.147387
+Epoch(14) begin training........
+Train(14), loss: 1.080792, time: 680 s
+Epoch(14) begin validating......
+eval point avg class IoU: 0.315673
+eval point accuracy: 0.630774
+eval point avg class acc: 0.605834
+------- IoU --------
+class grasp, IoU: 0.393 
+class contain, IoU: 0.349 
+class lift, IoU: 0.091 
+class openable, IoU: 0.183 
+class layable, IoU: 0.207 
+class sittable, IoU: 0.550 
+class support, IoU: 0.509 
+class wrap_grasp, IoU: 0.374 
+class pourable, IoU: 0.356 
+class move, IoU: 0.455 
+class displaY, IoU: 0.438 
+class pushable, IoU: 0.133 
+class pull, IoU: 0.000 
+class listen, IoU: 0.444 
+class wear, IoU: 0.306 
+class press, IoU: 0.183 
+class cut, IoU: 0.449 
+class stab, IoU: 0.075 
+class none, IoU: 0.503 
+
+eval point avg class IoU: 0.136764
+eval point accuracy: 0.461388
+eval point avg class acc: 0.270623
+------- IoU --------
+class grab, IoU: 0.023 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.495 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.246 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.149 
+class push, IoU: 0.151 
+class drag, IoU: 0.000 
+class hear, IoU: 0.298 
+class clothe, IoU: 0.272 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.508 
+class jab, IoU: 0.001 
+class none, IoU: 0.447 
+
+Epoch(15) begin training........
+Train(15), loss: 1.048065, time: 679 s
+Epoch(15) begin validating......
+eval point avg class IoU: 0.308101
+eval point accuracy: 0.621448
+eval point avg class acc: 0.595191
+------- IoU --------
+class grasp, IoU: 0.356 
+class contain, IoU: 0.355 
+class lift, IoU: 0.031 
+class openable, IoU: 0.206 
+class layable, IoU: 0.185 
+class sittable, IoU: 0.537 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.361 
+class pourable, IoU: 0.376 
+class move, IoU: 0.431 
+class displaY, IoU: 0.463 
+class pushable, IoU: 0.179 
+class pull, IoU: 0.001 
+class listen, IoU: 0.344 
+class wear, IoU: 0.309 
+class press, IoU: 0.168 
+class cut, IoU: 0.394 
+class stab, IoU: 0.153 
+class none, IoU: 0.492 
+
+eval point avg class IoU: 0.159190
+eval point accuracy: 0.455653
+eval point avg class acc: 0.294155
+------- IoU --------
+class grab, IoU: 0.217 
+class accommodate, IoU: 0.031 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.069 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.460 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.318 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.051 
+class push, IoU: 0.250 
+class drag, IoU: 0.000 
+class hear, IoU: 0.158 
+class clothe, IoU: 0.351 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.487 
+class jab, IoU: 0.184 
+class none, IoU: 0.448 
+
+Epoch(16) begin training........
+Train(16), loss: 1.065441, time: 679 s
+Epoch(16) begin validating......
+eval point avg class IoU: 0.328005
+eval point accuracy: 0.635260
+eval point avg class acc: 0.588729
+------- IoU --------
+class grasp, IoU: 0.401 
+class contain, IoU: 0.357 
+class lift, IoU: 0.140 
+class openable, IoU: 0.197 
+class layable, IoU: 0.234 
+class sittable, IoU: 0.555 
+class support, IoU: 0.512 
+class wrap_grasp, IoU: 0.375 
+class pourable, IoU: 0.316 
+class move, IoU: 0.442 
+class displaY, IoU: 0.464 
+class pushable, IoU: 0.148 
+class pull, IoU: 0.001 
+class listen, IoU: 0.400 
+class wear, IoU: 0.305 
+class press, IoU: 0.174 
+class cut, IoU: 0.520 
+class stab, IoU: 0.175 
+class none, IoU: 0.515 
+
+eval point avg class IoU: 0.121311
+eval point accuracy: 0.449222
+eval point avg class acc: 0.232391
+------- IoU --------
+class grab, IoU: 0.066 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.319 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.274 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.008 
+class push, IoU: 0.226 
+class drag, IoU: 0.000 
+class hear, IoU: 0.283 
+class clothe, IoU: 0.237 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.403 
+class jab, IoU: 0.039 
+class none, IoU: 0.443 
+
+Epoch(17) begin training........
+Train(17), loss: 1.033204, time: 680 s
+Epoch(17) begin validating......
+eval point avg class IoU: 0.333216
+eval point accuracy: 0.635565
+eval point avg class acc: 0.598448
+------- IoU --------
+class grasp, IoU: 0.373 
+class contain, IoU: 0.356 
+class lift, IoU: 0.236 
+class openable, IoU: 0.210 
+class layable, IoU: 0.200 
+class sittable, IoU: 0.555 
+class support, IoU: 0.509 
+class wrap_grasp, IoU: 0.369 
+class pourable, IoU: 0.371 
+class move, IoU: 0.431 
+class displaY, IoU: 0.496 
+class pushable, IoU: 0.179 
+class pull, IoU: 0.006 
+class listen, IoU: 0.470 
+class wear, IoU: 0.289 
+class press, IoU: 0.210 
+class cut, IoU: 0.438 
+class stab, IoU: 0.112 
+class none, IoU: 0.521 
+
+eval point avg class IoU: 0.135329
+eval point accuracy: 0.470885
+eval point avg class acc: 0.259551
+------- IoU --------
+class grab, IoU: 0.211 
+class accommodate, IoU: 0.019 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.023 
+class take a seat, IoU: 0.558 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.173 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.026 
+class push, IoU: 0.295 
+class drag, IoU: 0.000 
+class hear, IoU: 0.067 
+class clothe, IoU: 0.178 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.518 
+class jab, IoU: 0.017 
+class none, IoU: 0.472 
+
+Epoch(18) begin training........
+Train(18), loss: 1.053432, time: 680 s
+Epoch(18) begin validating......
+eval point avg class IoU: 0.338491
+eval point accuracy: 0.647846
+eval point avg class acc: 0.592670
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.363 
+class lift, IoU: 0.122 
+class openable, IoU: 0.208 
+class layable, IoU: 0.317 
+class sittable, IoU: 0.573 
+class support, IoU: 0.504 
+class wrap_grasp, IoU: 0.386 
+class pourable, IoU: 0.385 
+class move, IoU: 0.450 
+class displaY, IoU: 0.495 
+class pushable, IoU: 0.194 
+class pull, IoU: 0.013 
+class listen, IoU: 0.453 
+class wear, IoU: 0.228 
+class press, IoU: 0.253 
+class cut, IoU: 0.547 
+class stab, IoU: 0.014 
+class none, IoU: 0.541 
+
+eval point avg class IoU: 0.115726
+eval point accuracy: 0.463137
+eval point avg class acc: 0.203004
+------- IoU --------
+class grab, IoU: 0.154 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.522 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.087 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.232 
+class drag, IoU: 0.000 
+class hear, IoU: 0.350 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.382 
+class jab, IoU: 0.021 
+class none, IoU: 0.443 
+
+Epoch(19) begin training........
+Train(19), loss: 1.052408, time: 680 s
+Epoch(19) begin validating......
+eval point avg class IoU: 0.329015
+eval point accuracy: 0.640531
+eval point avg class acc: 0.615399
+------- IoU --------
+class grasp, IoU: 0.376 
+class contain, IoU: 0.331 
+class lift, IoU: 0.130 
+class openable, IoU: 0.206 
+class layable, IoU: 0.296 
+class sittable, IoU: 0.557 
+class support, IoU: 0.500 
+class wrap_grasp, IoU: 0.378 
+class pourable, IoU: 0.379 
+class move, IoU: 0.462 
+class displaY, IoU: 0.411 
+class pushable, IoU: 0.173 
+class pull, IoU: 0.018 
+class listen, IoU: 0.436 
+class wear, IoU: 0.167 
+class press, IoU: 0.315 
+class cut, IoU: 0.485 
+class stab, IoU: 0.102 
+class none, IoU: 0.531 
+
+eval point avg class IoU: 0.125800
+eval point accuracy: 0.455257
+eval point avg class acc: 0.265557
+------- IoU --------
+class grab, IoU: 0.057 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.425 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.142 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.014 
+class push, IoU: 0.207 
+class drag, IoU: 0.000 
+class hear, IoU: 0.265 
+class clothe, IoU: 0.176 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.464 
+class jab, IoU: 0.193 
+class none, IoU: 0.442 
+
+Epoch(20) begin training........
+Train(20), loss: 0.984781, time: 681 s
+Epoch(20) begin validating......
+eval point avg class IoU: 0.346275
+eval point accuracy: 0.640112
+eval point avg class acc: 0.615382
+------- IoU --------
+class grasp, IoU: 0.391 
+class contain, IoU: 0.364 
+class lift, IoU: 0.198 
+class openable, IoU: 0.218 
+class layable, IoU: 0.259 
+class sittable, IoU: 0.559 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.390 
+class pourable, IoU: 0.370 
+class move, IoU: 0.447 
+class displaY, IoU: 0.500 
+class pushable, IoU: 0.268 
+class pull, IoU: 0.003 
+class listen, IoU: 0.447 
+class wear, IoU: 0.210 
+class press, IoU: 0.237 
+class cut, IoU: 0.544 
+class stab, IoU: 0.142 
+class none, IoU: 0.517 
+
+eval point avg class IoU: 0.117168
+eval point accuracy: 0.456060
+eval point avg class acc: 0.230885
+------- IoU --------
+class grab, IoU: 0.025 
+class accommodate, IoU: 0.016 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.379 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.200 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.011 
+class push, IoU: 0.256 
+class drag, IoU: 0.000 
+class hear, IoU: 0.126 
+class clothe, IoU: 0.243 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.494 
+class jab, IoU: 0.024 
+class none, IoU: 0.449 
+
+Epoch(21) begin training........
+Train(21), loss: 0.960169, time: 678 s
+Epoch(21) begin validating......
+eval point avg class IoU: 0.338794
+eval point accuracy: 0.646201
+eval point avg class acc: 0.643941
+------- IoU --------
+class grasp, IoU: 0.394 
+class contain, IoU: 0.359 
+class lift, IoU: 0.137 
+class openable, IoU: 0.214 
+class layable, IoU: 0.193 
+class sittable, IoU: 0.566 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.385 
+class pourable, IoU: 0.390 
+class move, IoU: 0.450 
+class displaY, IoU: 0.452 
+class pushable, IoU: 0.207 
+class pull, IoU: 0.015 
+class listen, IoU: 0.450 
+class wear, IoU: 0.268 
+class press, IoU: 0.268 
+class cut, IoU: 0.490 
+class stab, IoU: 0.146 
+class none, IoU: 0.535 
+
+eval point avg class IoU: 0.130843
+eval point accuracy: 0.455939
+eval point avg class acc: 0.268007
+------- IoU --------
+class grab, IoU: 0.085 
+class accommodate, IoU: 0.007 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.013 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.416 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.101 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.142 
+class push, IoU: 0.205 
+class drag, IoU: 0.000 
+class hear, IoU: 0.197 
+class clothe, IoU: 0.254 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.546 
+class jab, IoU: 0.078 
+class none, IoU: 0.442 
+
+Epoch(22) begin training........
+Train(22), loss: 0.948340, time: 677 s
+Epoch(22) begin validating......
+eval point avg class IoU: 0.350774
+eval point accuracy: 0.652883
+eval point avg class acc: 0.641284
+------- IoU --------
+class grasp, IoU: 0.389 
+class contain, IoU: 0.381 
+class lift, IoU: 0.079 
+class openable, IoU: 0.219 
+class layable, IoU: 0.301 
+class sittable, IoU: 0.577 
+class support, IoU: 0.507 
+class wrap_grasp, IoU: 0.402 
+class pourable, IoU: 0.392 
+class move, IoU: 0.459 
+class displaY, IoU: 0.507 
+class pushable, IoU: 0.249 
+class pull, IoU: 0.011 
+class listen, IoU: 0.466 
+class wear, IoU: 0.306 
+class press, IoU: 0.217 
+class cut, IoU: 0.486 
+class stab, IoU: 0.176 
+class none, IoU: 0.541 
+
+eval point avg class IoU: 0.125046
+eval point accuracy: 0.454336
+eval point avg class acc: 0.229933
+------- IoU --------
+class grab, IoU: 0.061 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.021 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.373 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.170 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.020 
+class push, IoU: 0.275 
+class drag, IoU: 0.000 
+class hear, IoU: 0.281 
+class clothe, IoU: 0.172 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.537 
+class jab, IoU: 0.010 
+class none, IoU: 0.444 
+
+Epoch(23) begin training........
+Train(23), loss: 0.948883, time: 679 s
+Epoch(23) begin validating......
+eval point avg class IoU: 0.346766
+eval point accuracy: 0.654803
+eval point avg class acc: 0.632751
+------- IoU --------
+class grasp, IoU: 0.386 
+class contain, IoU: 0.388 
+class lift, IoU: 0.228 
+class openable, IoU: 0.219 
+class layable, IoU: 0.304 
+class sittable, IoU: 0.571 
+class support, IoU: 0.505 
+class wrap_grasp, IoU: 0.406 
+class pourable, IoU: 0.386 
+class move, IoU: 0.456 
+class displaY, IoU: 0.483 
+class pushable, IoU: 0.216 
+class pull, IoU: 0.000 
+class listen, IoU: 0.470 
+class wear, IoU: 0.367 
+class press, IoU: 0.193 
+class cut, IoU: 0.367 
+class stab, IoU: 0.094 
+class none, IoU: 0.550 
+
+eval point avg class IoU: 0.128031
+eval point accuracy: 0.453907
+eval point avg class acc: 0.244233
+------- IoU --------
+class grab, IoU: 0.050 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.000 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.396 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.141 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.061 
+class push, IoU: 0.227 
+class drag, IoU: 0.000 
+class hear, IoU: 0.345 
+class clothe, IoU: 0.317 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.431 
+class jab, IoU: 0.024 
+class none, IoU: 0.439 
+
+Epoch(24) begin training........
+Train(24), loss: 0.937346, time: 681 s
+Epoch(24) begin validating......
+eval point avg class IoU: 0.342821
+eval point accuracy: 0.643677
+eval point avg class acc: 0.643502
+------- IoU --------
+class grasp, IoU: 0.396 
+class contain, IoU: 0.379 
+class lift, IoU: 0.226 
+class openable, IoU: 0.227 
+class layable, IoU: 0.242 
+class sittable, IoU: 0.573 
+class support, IoU: 0.515 
+class wrap_grasp, IoU: 0.390 
+class pourable, IoU: 0.363 
+class move, IoU: 0.451 
+class displaY, IoU: 0.480 
+class pushable, IoU: 0.199 
+class pull, IoU: 0.011 
+class listen, IoU: 0.433 
+class wear, IoU: 0.332 
+class press, IoU: 0.176 
+class cut, IoU: 0.483 
+class stab, IoU: 0.115 
+class none, IoU: 0.523 
+
+eval point avg class IoU: 0.111343
+eval point accuracy: 0.433824
+eval point avg class acc: 0.242758
+------- IoU --------
+class grab, IoU: 0.040 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.009 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.130 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.136 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.027 
+class push, IoU: 0.277 
+class drag, IoU: 0.000 
+class hear, IoU: 0.178 
+class clothe, IoU: 0.348 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.513 
+class jab, IoU: 0.013 
+class none, IoU: 0.445 
+
+Epoch(25) begin training........
+Train(25), loss: 0.937507, time: 680 s
+Epoch(25) begin validating......
+eval point avg class IoU: 0.353910
+eval point accuracy: 0.653525
+eval point avg class acc: 0.622938
+------- IoU --------
+class grasp, IoU: 0.385 
+class contain, IoU: 0.392 
+class lift, IoU: 0.160 
+class openable, IoU: 0.220 
+class layable, IoU: 0.274 
+class sittable, IoU: 0.563 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.401 
+class pourable, IoU: 0.397 
+class move, IoU: 0.443 
+class displaY, IoU: 0.498 
+class pushable, IoU: 0.297 
+class pull, IoU: 0.007 
+class listen, IoU: 0.463 
+class wear, IoU: 0.327 
+class press, IoU: 0.248 
+class cut, IoU: 0.535 
+class stab, IoU: 0.051 
+class none, IoU: 0.544 
+
+eval point avg class IoU: 0.107267
+eval point accuracy: 0.450878
+eval point avg class acc: 0.207480
+------- IoU --------
+class grab, IoU: 0.031 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.319 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.153 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.024 
+class push, IoU: 0.290 
+class drag, IoU: 0.000 
+class hear, IoU: 0.187 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.559 
+class jab, IoU: 0.024 
+class none, IoU: 0.442 
+
+Epoch(26) begin training........
+Train(26), loss: 0.923707, time: 679 s
+Epoch(26) begin validating......
+eval point avg class IoU: 0.340484
+eval point accuracy: 0.644064
+eval point avg class acc: 0.630088
+------- IoU --------
+class grasp, IoU: 0.385 
+class contain, IoU: 0.385 
+class lift, IoU: 0.053 
+class openable, IoU: 0.213 
+class layable, IoU: 0.302 
+class sittable, IoU: 0.565 
+class support, IoU: 0.512 
+class wrap_grasp, IoU: 0.358 
+class pourable, IoU: 0.364 
+class move, IoU: 0.453 
+class displaY, IoU: 0.491 
+class pushable, IoU: 0.253 
+class pull, IoU: 0.000 
+class listen, IoU: 0.418 
+class wear, IoU: 0.352 
+class press, IoU: 0.212 
+class cut, IoU: 0.555 
+class stab, IoU: 0.073 
+class none, IoU: 0.525 
+
+eval point avg class IoU: 0.130011
+eval point accuracy: 0.464193
+eval point avg class acc: 0.249253
+------- IoU --------
+class grab, IoU: 0.060 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.011 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.543 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.053 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.062 
+class push, IoU: 0.254 
+class drag, IoU: 0.000 
+class hear, IoU: 0.154 
+class clothe, IoU: 0.296 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.553 
+class jab, IoU: 0.029 
+class none, IoU: 0.447 
+
+Epoch(27) begin training........
+Train(27), loss: 0.922142, time: 682 s
+Epoch(27) begin validating......
+eval point avg class IoU: 0.345621
+eval point accuracy: 0.649209
+eval point avg class acc: 0.647784
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.396 
+class lift, IoU: 0.152 
+class openable, IoU: 0.229 
+class layable, IoU: 0.171 
+class sittable, IoU: 0.556 
+class support, IoU: 0.517 
+class wrap_grasp, IoU: 0.405 
+class pourable, IoU: 0.394 
+class move, IoU: 0.449 
+class displaY, IoU: 0.497 
+class pushable, IoU: 0.257 
+class pull, IoU: 0.000 
+class listen, IoU: 0.402 
+class wear, IoU: 0.369 
+class press, IoU: 0.212 
+class cut, IoU: 0.546 
+class stab, IoU: 0.092 
+class none, IoU: 0.536 
+
+eval point avg class IoU: 0.115816
+eval point accuracy: 0.438193
+eval point avg class acc: 0.230562
+------- IoU --------
+class grab, IoU: 0.118 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.164 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.091 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.270 
+class drag, IoU: 0.000 
+class hear, IoU: 0.282 
+class clothe, IoU: 0.246 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.562 
+class jab, IoU: 0.018 
+class none, IoU: 0.432 
+
+Epoch(28) begin training........
+Train(28), loss: 0.916302, time: 696 s
+Epoch(28) begin validating......
+eval point avg class IoU: 0.358162
+eval point accuracy: 0.662851
+eval point avg class acc: 0.635813
+------- IoU --------
+class grasp, IoU: 0.412 
+class contain, IoU: 0.399 
+class lift, IoU: 0.144 
+class openable, IoU: 0.225 
+class layable, IoU: 0.317 
+class sittable, IoU: 0.571 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.424 
+class pourable, IoU: 0.400 
+class move, IoU: 0.469 
+class displaY, IoU: 0.496 
+class pushable, IoU: 0.284 
+class pull, IoU: 0.000 
+class listen, IoU: 0.385 
+class wear, IoU: 0.314 
+class press, IoU: 0.221 
+class cut, IoU: 0.564 
+class stab, IoU: 0.116 
+class none, IoU: 0.552 
+
+eval point avg class IoU: 0.131770
+eval point accuracy: 0.459403
+eval point avg class acc: 0.245482
+------- IoU --------
+class grab, IoU: 0.077 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.445 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.128 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.307 
+class drag, IoU: 0.000 
+class hear, IoU: 0.164 
+class clothe, IoU: 0.333 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.572 
+class jab, IoU: 0.013 
+class none, IoU: 0.445 
+
+Epoch(29) begin training........
+Train(29), loss: 0.915693, time: 697 s
+Epoch(29) begin validating......
+eval point avg class IoU: 0.347975
+eval point accuracy: 0.658354
+eval point avg class acc: 0.632201
+------- IoU --------
+class grasp, IoU: 0.387 
+class contain, IoU: 0.385 
+class lift, IoU: 0.193 
+class openable, IoU: 0.216 
+class layable, IoU: 0.212 
+class sittable, IoU: 0.561 
+class support, IoU: 0.510 
+class wrap_grasp, IoU: 0.399 
+class pourable, IoU: 0.400 
+class move, IoU: 0.440 
+class displaY, IoU: 0.510 
+class pushable, IoU: 0.275 
+class pull, IoU: 0.004 
+class listen, IoU: 0.437 
+class wear, IoU: 0.325 
+class press, IoU: 0.233 
+class cut, IoU: 0.434 
+class stab, IoU: 0.129 
+class none, IoU: 0.563 
+
+eval point avg class IoU: 0.111454
+eval point accuracy: 0.453470
+eval point avg class acc: 0.221330
+------- IoU --------
+class grab, IoU: 0.045 
+class accommodate, IoU: 0.007 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.413 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.084 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.001 
+class push, IoU: 0.301 
+class drag, IoU: 0.000 
+class hear, IoU: 0.214 
+class clothe, IoU: 0.055 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.519 
+class jab, IoU: 0.034 
+class none, IoU: 0.439 
+
+Epoch(30) begin training........
+Train(30), loss: 0.913803, time: 681 s
+Epoch(30) begin validating......
+eval point avg class IoU: 0.359706
+eval point accuracy: 0.663446
+eval point avg class acc: 0.628458
+------- IoU --------
+class grasp, IoU: 0.394 
+class contain, IoU: 0.389 
+class lift, IoU: 0.169 
+class openable, IoU: 0.219 
+class layable, IoU: 0.302 
+class sittable, IoU: 0.576 
+class support, IoU: 0.505 
+class wrap_grasp, IoU: 0.403 
+class pourable, IoU: 0.404 
+class move, IoU: 0.454 
+class displaY, IoU: 0.478 
+class pushable, IoU: 0.287 
+class pull, IoU: 0.000 
+class listen, IoU: 0.487 
+class wear, IoU: 0.319 
+class press, IoU: 0.222 
+class cut, IoU: 0.536 
+class stab, IoU: 0.126 
+class none, IoU: 0.565 
+
+eval point avg class IoU: 0.102703
+eval point accuracy: 0.434450
+eval point avg class acc: 0.192885
+------- IoU --------
+class grab, IoU: 0.080 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.003 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.095 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.068 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.329 
+class drag, IoU: 0.000 
+class hear, IoU: 0.316 
+class clothe, IoU: 0.068 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.550 
+class jab, IoU: 0.003 
+class none, IoU: 0.435 
+
+Epoch(31) begin training........
+Train(31), loss: 0.918267, time: 680 s
+Epoch(31) begin validating......
+eval point avg class IoU: 0.345781
+eval point accuracy: 0.655179
+eval point avg class acc: 0.627715
+------- IoU --------
+class grasp, IoU: 0.395 
+class contain, IoU: 0.380 
+class lift, IoU: 0.194 
+class openable, IoU: 0.219 
+class layable, IoU: 0.275 
+class sittable, IoU: 0.579 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.401 
+class pourable, IoU: 0.407 
+class move, IoU: 0.452 
+class displaY, IoU: 0.433 
+class pushable, IoU: 0.244 
+class pull, IoU: 0.013 
+class listen, IoU: 0.304 
+class wear, IoU: 0.290 
+class press, IoU: 0.200 
+class cut, IoU: 0.568 
+class stab, IoU: 0.148 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.107091
+eval point accuracy: 0.450253
+eval point avg class acc: 0.227476
+------- IoU --------
+class grab, IoU: 0.067 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.020 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.368 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.036 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.165 
+class push, IoU: 0.242 
+class drag, IoU: 0.000 
+class hear, IoU: 0.117 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.575 
+class jab, IoU: 0.001 
+class none, IoU: 0.442 
+
+Epoch(32) begin training........
+Train(32), loss: 0.904715, time: 681 s
+Epoch(32) begin validating......
+eval point avg class IoU: 0.354659
+eval point accuracy: 0.649182
+eval point avg class acc: 0.635280
+------- IoU --------
+class grasp, IoU: 0.402 
+class contain, IoU: 0.403 
+class lift, IoU: 0.248 
+class openable, IoU: 0.231 
+class layable, IoU: 0.297 
+class sittable, IoU: 0.565 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.377 
+class pourable, IoU: 0.367 
+class move, IoU: 0.398 
+class displaY, IoU: 0.509 
+class pushable, IoU: 0.229 
+class pull, IoU: 0.000 
+class listen, IoU: 0.417 
+class wear, IoU: 0.345 
+class press, IoU: 0.207 
+class cut, IoU: 0.440 
+class stab, IoU: 0.231 
+class none, IoU: 0.551 
+
+eval point avg class IoU: 0.124493
+eval point accuracy: 0.460721
+eval point avg class acc: 0.239960
+------- IoU --------
+class grab, IoU: 0.033 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.001 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.402 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.269 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.080 
+class push, IoU: 0.251 
+class drag, IoU: 0.000 
+class hear, IoU: 0.304 
+class clothe, IoU: 0.100 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.470 
+class jab, IoU: 0.001 
+class none, IoU: 0.446 
+
+Epoch(33) begin training........
+Train(33), loss: 0.903773, time: 679 s
+Epoch(33) begin validating......
+eval point avg class IoU: 0.354469
+eval point accuracy: 0.645562
+eval point avg class acc: 0.647403
+------- IoU --------
+class grasp, IoU: 0.410 
+class contain, IoU: 0.392 
+class lift, IoU: 0.274 
+class openable, IoU: 0.223 
+class layable, IoU: 0.275 
+class sittable, IoU: 0.559 
+class support, IoU: 0.509 
+class wrap_grasp, IoU: 0.409 
+class pourable, IoU: 0.406 
+class move, IoU: 0.418 
+class displaY, IoU: 0.512 
+class pushable, IoU: 0.220 
+class pull, IoU: 0.000 
+class listen, IoU: 0.452 
+class wear, IoU: 0.341 
+class press, IoU: 0.257 
+class cut, IoU: 0.461 
+class stab, IoU: 0.082 
+class none, IoU: 0.536 
+
+eval point avg class IoU: 0.128511
+eval point accuracy: 0.464442
+eval point avg class acc: 0.254047
+------- IoU --------
+class grab, IoU: 0.113 
+class accommodate, IoU: 0.040 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.500 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.125 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.082 
+class push, IoU: 0.240 
+class drag, IoU: 0.000 
+class hear, IoU: 0.153 
+class clothe, IoU: 0.203 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.508 
+class jab, IoU: 0.006 
+class none, IoU: 0.453 
+
+Epoch(34) begin training........
+Train(34), loss: 0.902235, time: 682 s
+Epoch(34) begin validating......
+eval point avg class IoU: 0.359636
+eval point accuracy: 0.659648
+eval point avg class acc: 0.621538
+------- IoU --------
+class grasp, IoU: 0.380 
+class contain, IoU: 0.401 
+class lift, IoU: 0.207 
+class openable, IoU: 0.224 
+class layable, IoU: 0.270 
+class sittable, IoU: 0.575 
+class support, IoU: 0.502 
+class wrap_grasp, IoU: 0.426 
+class pourable, IoU: 0.399 
+class move, IoU: 0.469 
+class displaY, IoU: 0.498 
+class pushable, IoU: 0.269 
+class pull, IoU: 0.010 
+class listen, IoU: 0.464 
+class wear, IoU: 0.329 
+class press, IoU: 0.296 
+class cut, IoU: 0.462 
+class stab, IoU: 0.103 
+class none, IoU: 0.549 
+
+eval point avg class IoU: 0.125278
+eval point accuracy: 0.453594
+eval point avg class acc: 0.226860
+------- IoU --------
+class grab, IoU: 0.187 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.032 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.320 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.098 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.018 
+class push, IoU: 0.314 
+class drag, IoU: 0.000 
+class hear, IoU: 0.276 
+class clothe, IoU: 0.148 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.535 
+class jab, IoU: 0.001 
+class none, IoU: 0.440 
+
+Epoch(35) begin training........
+Train(35), loss: 0.921750, time: 680 s
+Epoch(35) begin validating......
+eval point avg class IoU: 0.367423
+eval point accuracy: 0.660973
+eval point avg class acc: 0.630308
+------- IoU --------
+class grasp, IoU: 0.412 
+class contain, IoU: 0.396 
+class lift, IoU: 0.187 
+class openable, IoU: 0.224 
+class layable, IoU: 0.346 
+class sittable, IoU: 0.577 
+class support, IoU: 0.504 
+class wrap_grasp, IoU: 0.415 
+class pourable, IoU: 0.387 
+class move, IoU: 0.461 
+class displaY, IoU: 0.485 
+class pushable, IoU: 0.258 
+class pull, IoU: 0.009 
+class listen, IoU: 0.469 
+class wear, IoU: 0.343 
+class press, IoU: 0.185 
+class cut, IoU: 0.546 
+class stab, IoU: 0.219 
+class none, IoU: 0.555 
+
+eval point avg class IoU: 0.122314
+eval point accuracy: 0.436183
+eval point avg class acc: 0.224881
+------- IoU --------
+class grab, IoU: 0.063 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.072 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.157 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.027 
+class push, IoU: 0.278 
+class drag, IoU: 0.000 
+class hear, IoU: 0.371 
+class clothe, IoU: 0.345 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.561 
+class jab, IoU: 0.000 
+class none, IoU: 0.432 
+
+Epoch(36) begin training........
+Train(36), loss: 0.903132, time: 678 s
+Epoch(36) begin validating......
+eval point avg class IoU: 0.367423
+eval point accuracy: 0.657366
+eval point avg class acc: 0.622553
+------- IoU --------
+class grasp, IoU: 0.396 
+class contain, IoU: 0.387 
+class lift, IoU: 0.257 
+class openable, IoU: 0.226 
+class layable, IoU: 0.284 
+class sittable, IoU: 0.564 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.394 
+class pourable, IoU: 0.415 
+class move, IoU: 0.446 
+class displaY, IoU: 0.514 
+class pushable, IoU: 0.285 
+class pull, IoU: 0.002 
+class listen, IoU: 0.417 
+class wear, IoU: 0.321 
+class press, IoU: 0.201 
+class cut, IoU: 0.537 
+class stab, IoU: 0.263 
+class none, IoU: 0.553 
+
+eval point avg class IoU: 0.141876
+eval point accuracy: 0.460804
+eval point avg class acc: 0.262006
+------- IoU --------
+class grab, IoU: 0.098 
+class accommodate, IoU: 0.007 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.009 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.412 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.221 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.285 
+class drag, IoU: 0.000 
+class hear, IoU: 0.303 
+class clothe, IoU: 0.353 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.547 
+class jab, IoU: 0.000 
+class none, IoU: 0.453 
+
+Epoch(37) begin training........
+Train(37), loss: 0.912176, time: 680 s
+Epoch(37) begin validating......
+eval point avg class IoU: 0.366881
+eval point accuracy: 0.657867
+eval point avg class acc: 0.630741
+------- IoU --------
+class grasp, IoU: 0.399 
+class contain, IoU: 0.400 
+class lift, IoU: 0.247 
+class openable, IoU: 0.231 
+class layable, IoU: 0.314 
+class sittable, IoU: 0.580 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.376 
+class pourable, IoU: 0.394 
+class move, IoU: 0.442 
+class displaY, IoU: 0.506 
+class pushable, IoU: 0.274 
+class pull, IoU: 0.000 
+class listen, IoU: 0.468 
+class wear, IoU: 0.340 
+class press, IoU: 0.209 
+class cut, IoU: 0.546 
+class stab, IoU: 0.172 
+class none, IoU: 0.551 
+
+eval point avg class IoU: 0.105347
+eval point accuracy: 0.437207
+eval point avg class acc: 0.201952
+------- IoU --------
+class grab, IoU: 0.020 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.004 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.154 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.007 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.036 
+class push, IoU: 0.293 
+class drag, IoU: 0.000 
+class hear, IoU: 0.285 
+class clothe, IoU: 0.220 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.546 
+class jab, IoU: 0.000 
+class none, IoU: 0.433 
+
+Epoch(38) begin training........
+Train(38), loss: 0.904031, time: 680 s
+Epoch(38) begin validating......
+eval point avg class IoU: 0.353456
+eval point accuracy: 0.654977
+eval point avg class acc: 0.641660
+------- IoU --------
+class grasp, IoU: 0.396 
+class contain, IoU: 0.395 
+class lift, IoU: 0.097 
+class openable, IoU: 0.230 
+class layable, IoU: 0.230 
+class sittable, IoU: 0.572 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.407 
+class pourable, IoU: 0.409 
+class move, IoU: 0.455 
+class displaY, IoU: 0.497 
+class pushable, IoU: 0.254 
+class pull, IoU: 0.002 
+class listen, IoU: 0.463 
+class wear, IoU: 0.329 
+class press, IoU: 0.235 
+class cut, IoU: 0.456 
+class stab, IoU: 0.231 
+class none, IoU: 0.543 
+
+eval point avg class IoU: 0.113772
+eval point accuracy: 0.438924
+eval point avg class acc: 0.218694
+------- IoU --------
+class grab, IoU: 0.062 
+class accommodate, IoU: 0.010 
+class raise, IoU: 0.001 
+class unlock, IoU: 0.014 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.179 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.063 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.023 
+class push, IoU: 0.237 
+class drag, IoU: 0.000 
+class hear, IoU: 0.363 
+class clothe, IoU: 0.241 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.528 
+class jab, IoU: 0.001 
+class none, IoU: 0.440 
+
+Epoch(39) begin training........
+Train(39), loss: 0.890150, time: 680 s
+Epoch(39) begin validating......
+eval point avg class IoU: 0.359132
+eval point accuracy: 0.650589
+eval point avg class acc: 0.641962
+------- IoU --------
+class grasp, IoU: 0.413 
+class contain, IoU: 0.403 
+class lift, IoU: 0.218 
+class openable, IoU: 0.206 
+class layable, IoU: 0.277 
+class sittable, IoU: 0.569 
+class support, IoU: 0.521 
+class wrap_grasp, IoU: 0.407 
+class pourable, IoU: 0.404 
+class move, IoU: 0.449 
+class displaY, IoU: 0.502 
+class pushable, IoU: 0.272 
+class pull, IoU: 0.002 
+class listen, IoU: 0.454 
+class wear, IoU: 0.365 
+class press, IoU: 0.220 
+class cut, IoU: 0.490 
+class stab, IoU: 0.122 
+class none, IoU: 0.532 
+
+eval point avg class IoU: 0.103531
+eval point accuracy: 0.445277
+eval point avg class acc: 0.214557
+------- IoU --------
+class grab, IoU: 0.038 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.026 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.202 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.228 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.075 
+class push, IoU: 0.269 
+class drag, IoU: 0.000 
+class hear, IoU: 0.180 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.480 
+class jab, IoU: 0.015 
+class none, IoU: 0.447 
+
+Epoch(40) begin training........
+Train(40), loss: 0.862127, time: 680 s
+Epoch(40) begin validating......
+eval point avg class IoU: 0.372048
+eval point accuracy: 0.665280
+eval point avg class acc: 0.646814
+------- IoU --------
+class grasp, IoU: 0.410 
+class contain, IoU: 0.396 
+class lift, IoU: 0.295 
+class openable, IoU: 0.231 
+class layable, IoU: 0.312 
+class sittable, IoU: 0.578 
+class support, IoU: 0.518 
+class wrap_grasp, IoU: 0.430 
+class pourable, IoU: 0.405 
+class move, IoU: 0.456 
+class displaY, IoU: 0.503 
+class pushable, IoU: 0.286 
+class pull, IoU: 0.000 
+class listen, IoU: 0.456 
+class wear, IoU: 0.364 
+class press, IoU: 0.233 
+class cut, IoU: 0.493 
+class stab, IoU: 0.142 
+class none, IoU: 0.560 
+
+eval point avg class IoU: 0.107870
+eval point accuracy: 0.438243
+eval point avg class acc: 0.212393
+------- IoU --------
+class grab, IoU: 0.099 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.022 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.162 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.116 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.031 
+class push, IoU: 0.280 
+class drag, IoU: 0.000 
+class hear, IoU: 0.217 
+class clothe, IoU: 0.151 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.519 
+class jab, IoU: 0.000 
+class none, IoU: 0.448 
+
+Epoch(41) begin training........
+Train(41), loss: 0.857161, time: 681 s
+Epoch(41) begin validating......
+eval point avg class IoU: 0.375596
+eval point accuracy: 0.662916
+eval point avg class acc: 0.654198
+------- IoU --------
+class grasp, IoU: 0.409 
+class contain, IoU: 0.406 
+class lift, IoU: 0.212 
+class openable, IoU: 0.222 
+class layable, IoU: 0.298 
+class sittable, IoU: 0.560 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.433 
+class pourable, IoU: 0.409 
+class move, IoU: 0.449 
+class displaY, IoU: 0.521 
+class pushable, IoU: 0.261 
+class pull, IoU: 0.012 
+class listen, IoU: 0.457 
+class wear, IoU: 0.372 
+class press, IoU: 0.228 
+class cut, IoU: 0.506 
+class stab, IoU: 0.303 
+class none, IoU: 0.560 
+
+eval point avg class IoU: 0.133732
+eval point accuracy: 0.470896
+eval point avg class acc: 0.252926
+------- IoU --------
+class grab, IoU: 0.129 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.025 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.555 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.086 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.001 
+class demonstrate, IoU: 0.026 
+class push, IoU: 0.268 
+class drag, IoU: 0.000 
+class hear, IoU: 0.224 
+class clothe, IoU: 0.205 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.562 
+class jab, IoU: 0.000 
+class none, IoU: 0.453 
+
+Epoch(42) begin training........
+Train(42), loss: 0.850703, time: 681 s
+Epoch(42) begin validating......
+eval point avg class IoU: 0.373538
+eval point accuracy: 0.667881
+eval point avg class acc: 0.633162
+------- IoU --------
+class grasp, IoU: 0.405 
+class contain, IoU: 0.411 
+class lift, IoU: 0.298 
+class openable, IoU: 0.237 
+class layable, IoU: 0.337 
+class sittable, IoU: 0.576 
+class support, IoU: 0.510 
+class wrap_grasp, IoU: 0.436 
+class pourable, IoU: 0.421 
+class move, IoU: 0.468 
+class displaY, IoU: 0.501 
+class pushable, IoU: 0.254 
+class pull, IoU: 0.001 
+class listen, IoU: 0.455 
+class wear, IoU: 0.371 
+class press, IoU: 0.244 
+class cut, IoU: 0.514 
+class stab, IoU: 0.097 
+class none, IoU: 0.560 
+
+eval point avg class IoU: 0.097501
+eval point accuracy: 0.428623
+eval point avg class acc: 0.198630
+------- IoU --------
+class grab, IoU: 0.046 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.020 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.055 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.026 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.005 
+class push, IoU: 0.271 
+class drag, IoU: 0.000 
+class hear, IoU: 0.271 
+class clothe, IoU: 0.170 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.546 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(43) begin training........
+Train(43), loss: 0.849802, time: 679 s
+Epoch(43) begin validating......
+eval point avg class IoU: 0.354378
+eval point accuracy: 0.657822
+eval point avg class acc: 0.644157
+------- IoU --------
+class grasp, IoU: 0.404 
+class contain, IoU: 0.416 
+class lift, IoU: 0.183 
+class openable, IoU: 0.235 
+class layable, IoU: 0.311 
+class sittable, IoU: 0.566 
+class support, IoU: 0.522 
+class wrap_grasp, IoU: 0.403 
+class pourable, IoU: 0.413 
+class move, IoU: 0.449 
+class displaY, IoU: 0.498 
+class pushable, IoU: 0.028 
+class pull, IoU: 0.024 
+class listen, IoU: 0.436 
+class wear, IoU: 0.344 
+class press, IoU: 0.248 
+class cut, IoU: 0.411 
+class stab, IoU: 0.294 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.116850
+eval point accuracy: 0.462146
+eval point avg class acc: 0.246631
+------- IoU --------
+class grab, IoU: 0.073 
+class accommodate, IoU: 0.013 
+class raise, IoU: 0.026 
+class unlock, IoU: 0.037 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.496 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.047 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.056 
+class push, IoU: 0.282 
+class drag, IoU: 0.000 
+class hear, IoU: 0.260 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.483 
+class jab, IoU: 0.000 
+class none, IoU: 0.447 
+
+Epoch(44) begin training........
+Train(44), loss: 0.849942, time: 680 s
+Epoch(44) begin validating......
+eval point avg class IoU: 0.368193
+eval point accuracy: 0.661393
+eval point avg class acc: 0.654997
+------- IoU --------
+class grasp, IoU: 0.404 
+class contain, IoU: 0.409 
+class lift, IoU: 0.272 
+class openable, IoU: 0.232 
+class layable, IoU: 0.251 
+class sittable, IoU: 0.577 
+class support, IoU: 0.524 
+class wrap_grasp, IoU: 0.433 
+class pourable, IoU: 0.419 
+class move, IoU: 0.454 
+class displaY, IoU: 0.507 
+class pushable, IoU: 0.245 
+class pull, IoU: 0.005 
+class listen, IoU: 0.472 
+class wear, IoU: 0.367 
+class press, IoU: 0.222 
+class cut, IoU: 0.470 
+class stab, IoU: 0.184 
+class none, IoU: 0.549 
+
+eval point avg class IoU: 0.117607
+eval point accuracy: 0.454015
+eval point avg class acc: 0.220387
+------- IoU --------
+class grab, IoU: 0.099 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.034 
+class rest, IoU: 0.025 
+class take a seat, IoU: 0.389 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.045 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.014 
+class push, IoU: 0.271 
+class drag, IoU: 0.000 
+class hear, IoU: 0.311 
+class clothe, IoU: 0.077 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.520 
+class jab, IoU: 0.000 
+class none, IoU: 0.444 
+
+Epoch(45) begin training........
+Train(45), loss: 0.843658, time: 679 s
+Epoch(45) begin validating......
+eval point avg class IoU: 0.368895
+eval point accuracy: 0.664002
+eval point avg class acc: 0.655958
+------- IoU --------
+class grasp, IoU: 0.411 
+class contain, IoU: 0.420 
+class lift, IoU: 0.192 
+class openable, IoU: 0.237 
+class layable, IoU: 0.261 
+class sittable, IoU: 0.580 
+class support, IoU: 0.493 
+class wrap_grasp, IoU: 0.425 
+class pourable, IoU: 0.419 
+class move, IoU: 0.470 
+class displaY, IoU: 0.514 
+class pushable, IoU: 0.279 
+class pull, IoU: 0.003 
+class listen, IoU: 0.480 
+class wear, IoU: 0.347 
+class press, IoU: 0.214 
+class cut, IoU: 0.584 
+class stab, IoU: 0.126 
+class none, IoU: 0.556 
+
+eval point avg class IoU: 0.113895
+eval point accuracy: 0.432926
+eval point avg class acc: 0.223439
+------- IoU --------
+class grab, IoU: 0.092 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.056 
+class unlock, IoU: 0.032 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.038 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.083 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.011 
+class push, IoU: 0.283 
+class drag, IoU: 0.000 
+class hear, IoU: 0.359 
+class clothe, IoU: 0.183 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.586 
+class jab, IoU: 0.001 
+class none, IoU: 0.435 
+
+Epoch(46) begin training........
+Train(46), loss: 0.837196, time: 678 s
+Epoch(46) begin validating......
+eval point avg class IoU: 0.369372
+eval point accuracy: 0.667503
+eval point avg class acc: 0.647145
+------- IoU --------
+class grasp, IoU: 0.412 
+class contain, IoU: 0.416 
+class lift, IoU: 0.261 
+class openable, IoU: 0.244 
+class layable, IoU: 0.299 
+class sittable, IoU: 0.582 
+class support, IoU: 0.524 
+class wrap_grasp, IoU: 0.428 
+class pourable, IoU: 0.408 
+class move, IoU: 0.456 
+class displaY, IoU: 0.494 
+class pushable, IoU: 0.244 
+class pull, IoU: 0.002 
+class listen, IoU: 0.452 
+class wear, IoU: 0.326 
+class press, IoU: 0.225 
+class cut, IoU: 0.560 
+class stab, IoU: 0.123 
+class none, IoU: 0.563 
+
+eval point avg class IoU: 0.095375
+eval point accuracy: 0.432892
+eval point avg class acc: 0.202242
+------- IoU --------
+class grab, IoU: 0.040 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.011 
+class unlock, IoU: 0.027 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.089 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.028 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.013 
+class push, IoU: 0.270 
+class drag, IoU: 0.000 
+class hear, IoU: 0.288 
+class clothe, IoU: 0.045 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.565 
+class jab, IoU: 0.000 
+class none, IoU: 0.432 
+
+Epoch(47) begin training........
+Train(47), loss: 0.840808, time: 680 s
+Epoch(47) begin validating......
+eval point avg class IoU: 0.347862
+eval point accuracy: 0.640694
+eval point avg class acc: 0.600356
+------- IoU --------
+class grasp, IoU: 0.416 
+class contain, IoU: 0.400 
+class lift, IoU: 0.170 
+class openable, IoU: 0.237 
+class layable, IoU: 0.304 
+class sittable, IoU: 0.566 
+class support, IoU: 0.359 
+class wrap_grasp, IoU: 0.398 
+class pourable, IoU: 0.402 
+class move, IoU: 0.434 
+class displaY, IoU: 0.504 
+class pushable, IoU: 0.282 
+class pull, IoU: 0.008 
+class listen, IoU: 0.479 
+class wear, IoU: 0.362 
+class press, IoU: 0.215 
+class cut, IoU: 0.507 
+class stab, IoU: 0.015 
+class none, IoU: 0.551 
+
+eval point avg class IoU: 0.104049
+eval point accuracy: 0.430307
+eval point avg class acc: 0.207647
+------- IoU --------
+class grab, IoU: 0.072 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.111 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.021 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.102 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.000 
+class push, IoU: 0.274 
+class drag, IoU: 0.000 
+class hear, IoU: 0.367 
+class clothe, IoU: 0.067 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.507 
+class jab, IoU: 0.000 
+class none, IoU: 0.436 
+
+Epoch(48) begin training........
+Train(48), loss: 0.840301, time: 676 s
+Epoch(48) begin validating......
+eval point avg class IoU: 0.372043
+eval point accuracy: 0.664709
+eval point avg class acc: 0.654146
+------- IoU --------
+class grasp, IoU: 0.417 
+class contain, IoU: 0.413 
+class lift, IoU: 0.248 
+class openable, IoU: 0.239 
+class layable, IoU: 0.312 
+class sittable, IoU: 0.575 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.435 
+class pourable, IoU: 0.416 
+class move, IoU: 0.457 
+class displaY, IoU: 0.492 
+class pushable, IoU: 0.251 
+class pull, IoU: 0.014 
+class listen, IoU: 0.452 
+class wear, IoU: 0.374 
+class press, IoU: 0.221 
+class cut, IoU: 0.497 
+class stab, IoU: 0.178 
+class none, IoU: 0.554 
+
+eval point avg class IoU: 0.099187
+eval point accuracy: 0.442546
+eval point avg class acc: 0.198647
+------- IoU --------
+class grab, IoU: 0.037 
+class accommodate, IoU: 0.003 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.249 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.042 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.257 
+class drag, IoU: 0.000 
+class hear, IoU: 0.252 
+class clothe, IoU: 0.036 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.543 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(49) begin training........
+Train(49), loss: 0.833806, time: 677 s
+Epoch(49) begin validating......
+eval point avg class IoU: 0.367716
+eval point accuracy: 0.659371
+eval point avg class acc: 0.660402
+------- IoU --------
+class grasp, IoU: 0.411 
+class contain, IoU: 0.413 
+class lift, IoU: 0.275 
+class openable, IoU: 0.235 
+class layable, IoU: 0.315 
+class sittable, IoU: 0.566 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.422 
+class pourable, IoU: 0.410 
+class move, IoU: 0.449 
+class displaY, IoU: 0.482 
+class pushable, IoU: 0.226 
+class pull, IoU: 0.008 
+class listen, IoU: 0.465 
+class wear, IoU: 0.354 
+class press, IoU: 0.221 
+class cut, IoU: 0.507 
+class stab, IoU: 0.156 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.139070
+eval point accuracy: 0.465041
+eval point avg class acc: 0.276088
+------- IoU --------
+class grab, IoU: 0.084 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.031 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.508 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.083 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.073 
+class push, IoU: 0.227 
+class drag, IoU: 0.000 
+class hear, IoU: 0.272 
+class clothe, IoU: 0.356 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.548 
+class jab, IoU: 0.003 
+class none, IoU: 0.447 
+
+Epoch(50) begin training........
+Train(50), loss: 0.832617, time: 678 s
+Epoch(50) begin validating......
+eval point avg class IoU: 0.368656
+eval point accuracy: 0.668368
+eval point avg class acc: 0.644629
+------- IoU --------
+class grasp, IoU: 0.406 
+class contain, IoU: 0.413 
+class lift, IoU: 0.227 
+class openable, IoU: 0.242 
+class layable, IoU: 0.287 
+class sittable, IoU: 0.580 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.442 
+class pourable, IoU: 0.413 
+class move, IoU: 0.461 
+class displaY, IoU: 0.530 
+class pushable, IoU: 0.266 
+class pull, IoU: 0.000 
+class listen, IoU: 0.457 
+class wear, IoU: 0.330 
+class press, IoU: 0.236 
+class cut, IoU: 0.531 
+class stab, IoU: 0.108 
+class none, IoU: 0.563 
+
+eval point avg class IoU: 0.108415
+eval point accuracy: 0.447073
+eval point avg class acc: 0.202504
+------- IoU --------
+class grab, IoU: 0.030 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.255 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.145 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.010 
+class push, IoU: 0.260 
+class drag, IoU: 0.000 
+class hear, IoU: 0.313 
+class clothe, IoU: 0.012 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.574 
+class jab, IoU: 0.001 
+class none, IoU: 0.439 
+
+Epoch(51) begin training........
+Train(51), loss: 0.833097, time: 677 s
+Epoch(51) begin validating......
+eval point avg class IoU: 0.375501
+eval point accuracy: 0.666538
+eval point avg class acc: 0.654636
+------- IoU --------
+class grasp, IoU: 0.409 
+class contain, IoU: 0.411 
+class lift, IoU: 0.268 
+class openable, IoU: 0.237 
+class layable, IoU: 0.321 
+class sittable, IoU: 0.582 
+class support, IoU: 0.526 
+class wrap_grasp, IoU: 0.438 
+class pourable, IoU: 0.412 
+class move, IoU: 0.453 
+class displaY, IoU: 0.529 
+class pushable, IoU: 0.255 
+class pull, IoU: 0.031 
+class listen, IoU: 0.458 
+class wear, IoU: 0.356 
+class press, IoU: 0.238 
+class cut, IoU: 0.504 
+class stab, IoU: 0.152 
+class none, IoU: 0.557 
+
+eval point avg class IoU: 0.097099
+eval point accuracy: 0.433332
+eval point avg class acc: 0.204196
+------- IoU --------
+class grab, IoU: 0.055 
+class accommodate, IoU: 0.012 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.042 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.100 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.033 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.004 
+class push, IoU: 0.268 
+class drag, IoU: 0.000 
+class hear, IoU: 0.303 
+class clothe, IoU: 0.038 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.553 
+class jab, IoU: 0.000 
+class none, IoU: 0.437 
+
+Epoch(52) begin training........
+Train(52), loss: 0.837629, time: 678 s
+Epoch(52) begin validating......
+eval point avg class IoU: 0.367135
+eval point accuracy: 0.656436
+eval point avg class acc: 0.651686
+------- IoU --------
+class grasp, IoU: 0.397 
+class contain, IoU: 0.418 
+class lift, IoU: 0.294 
+class openable, IoU: 0.239 
+class layable, IoU: 0.283 
+class sittable, IoU: 0.569 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.409 
+class pourable, IoU: 0.365 
+class move, IoU: 0.457 
+class displaY, IoU: 0.504 
+class pushable, IoU: 0.282 
+class pull, IoU: 0.002 
+class listen, IoU: 0.484 
+class wear, IoU: 0.330 
+class press, IoU: 0.259 
+class cut, IoU: 0.471 
+class stab, IoU: 0.158 
+class none, IoU: 0.542 
+
+eval point avg class IoU: 0.116757
+eval point accuracy: 0.459790
+eval point avg class acc: 0.216635
+------- IoU --------
+class grab, IoU: 0.033 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.010 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.465 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.033 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.310 
+class drag, IoU: 0.000 
+class hear, IoU: 0.382 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.538 
+class jab, IoU: 0.000 
+class none, IoU: 0.443 
+
+Epoch(53) begin training........
+Train(53), loss: 0.832152, time: 677 s
+Epoch(53) begin validating......
+eval point avg class IoU: 0.372006
+eval point accuracy: 0.660263
+eval point avg class acc: 0.644508
+------- IoU --------
+class grasp, IoU: 0.401 
+class contain, IoU: 0.414 
+class lift, IoU: 0.237 
+class openable, IoU: 0.243 
+class layable, IoU: 0.230 
+class sittable, IoU: 0.553 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.432 
+class pourable, IoU: 0.420 
+class move, IoU: 0.448 
+class displaY, IoU: 0.517 
+class pushable, IoU: 0.287 
+class pull, IoU: 0.019 
+class listen, IoU: 0.475 
+class wear, IoU: 0.320 
+class press, IoU: 0.279 
+class cut, IoU: 0.484 
+class stab, IoU: 0.241 
+class none, IoU: 0.550 
+
+eval point avg class IoU: 0.127924
+eval point accuracy: 0.469754
+eval point avg class acc: 0.252764
+------- IoU --------
+class grab, IoU: 0.196 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.003 
+class unlock, IoU: 0.020 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.534 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.109 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.024 
+class push, IoU: 0.265 
+class drag, IoU: 0.000 
+class hear, IoU: 0.233 
+class clothe, IoU: 0.058 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.521 
+class jab, IoU: 0.000 
+class none, IoU: 0.456 
+
+Epoch(54) begin training........
+Train(54), loss: 0.831565, time: 680 s
+Epoch(54) begin validating......
+eval point avg class IoU: 0.376957
+eval point accuracy: 0.667674
+eval point avg class acc: 0.650829
+------- IoU --------
+class grasp, IoU: 0.412 
+class contain, IoU: 0.416 
+class lift, IoU: 0.267 
+class openable, IoU: 0.237 
+class layable, IoU: 0.316 
+class sittable, IoU: 0.586 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.428 
+class pourable, IoU: 0.422 
+class move, IoU: 0.459 
+class displaY, IoU: 0.495 
+class pushable, IoU: 0.258 
+class pull, IoU: 0.015 
+class listen, IoU: 0.455 
+class wear, IoU: 0.335 
+class press, IoU: 0.220 
+class cut, IoU: 0.534 
+class stab, IoU: 0.227 
+class none, IoU: 0.561 
+
+eval point avg class IoU: 0.115008
+eval point accuracy: 0.449325
+eval point avg class acc: 0.216919
+------- IoU --------
+class grab, IoU: 0.063 
+class accommodate, IoU: 0.010 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.019 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.289 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.057 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.037 
+class push, IoU: 0.309 
+class drag, IoU: 0.000 
+class hear, IoU: 0.300 
+class clothe, IoU: 0.105 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.556 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(55) begin training........
+Train(55), loss: 0.826560, time: 678 s
+Epoch(55) begin validating......
+eval point avg class IoU: 0.363991
+eval point accuracy: 0.663149
+eval point avg class acc: 0.651456
+------- IoU --------
+class grasp, IoU: 0.395 
+class contain, IoU: 0.422 
+class lift, IoU: 0.253 
+class openable, IoU: 0.240 
+class layable, IoU: 0.262 
+class sittable, IoU: 0.582 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.417 
+class pourable, IoU: 0.415 
+class move, IoU: 0.453 
+class displaY, IoU: 0.499 
+class pushable, IoU: 0.248 
+class pull, IoU: 0.009 
+class listen, IoU: 0.447 
+class wear, IoU: 0.336 
+class press, IoU: 0.267 
+class cut, IoU: 0.492 
+class stab, IoU: 0.105 
+class none, IoU: 0.554 
+
+eval point avg class IoU: 0.120067
+eval point accuracy: 0.452584
+eval point avg class acc: 0.222726
+------- IoU --------
+class grab, IoU: 0.063 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.024 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.358 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.041 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.042 
+class push, IoU: 0.275 
+class drag, IoU: 0.000 
+class hear, IoU: 0.353 
+class clothe, IoU: 0.135 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.545 
+class jab, IoU: 0.001 
+class none, IoU: 0.440 
+
+Epoch(56) begin training........
+Train(56), loss: 0.827178, time: 679 s
+Epoch(56) begin validating......
+eval point avg class IoU: 0.368807
+eval point accuracy: 0.669531
+eval point avg class acc: 0.652939
+------- IoU --------
+class grasp, IoU: 0.403 
+class contain, IoU: 0.420 
+class lift, IoU: 0.148 
+class openable, IoU: 0.237 
+class layable, IoU: 0.291 
+class sittable, IoU: 0.584 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.430 
+class pourable, IoU: 0.414 
+class move, IoU: 0.455 
+class displaY, IoU: 0.518 
+class pushable, IoU: 0.261 
+class pull, IoU: 0.000 
+class listen, IoU: 0.448 
+class wear, IoU: 0.340 
+class press, IoU: 0.213 
+class cut, IoU: 0.483 
+class stab, IoU: 0.274 
+class none, IoU: 0.567 
+
+eval point avg class IoU: 0.098978
+eval point accuracy: 0.442646
+eval point avg class acc: 0.196330
+------- IoU --------
+class grab, IoU: 0.039 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.027 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.251 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.023 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.017 
+class push, IoU: 0.278 
+class drag, IoU: 0.000 
+class hear, IoU: 0.267 
+class clothe, IoU: 0.001 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.538 
+class jab, IoU: 0.000 
+class none, IoU: 0.438 
+
+Epoch(57) begin training........
+Train(57), loss: 0.828019, time: 679 s
+Epoch(57) begin validating......
+eval point avg class IoU: 0.348793
+eval point accuracy: 0.640827
+eval point avg class acc: 0.657488
+------- IoU --------
+class grasp, IoU: 0.414 
+class contain, IoU: 0.379 
+class lift, IoU: 0.136 
+class openable, IoU: 0.242 
+class layable, IoU: 0.246 
+class sittable, IoU: 0.560 
+class support, IoU: 0.516 
+class wrap_grasp, IoU: 0.415 
+class pourable, IoU: 0.407 
+class move, IoU: 0.454 
+class displaY, IoU: 0.489 
+class pushable, IoU: 0.216 
+class pull, IoU: 0.000 
+class listen, IoU: 0.494 
+class wear, IoU: 0.323 
+class press, IoU: 0.193 
+class cut, IoU: 0.350 
+class stab, IoU: 0.288 
+class none, IoU: 0.505 
+
+eval point avg class IoU: 0.101163
+eval point accuracy: 0.443095
+eval point avg class acc: 0.207557
+------- IoU --------
+class grab, IoU: 0.032 
+class accommodate, IoU: 0.001 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.006 
+class rest, IoU: 0.114 
+class take a seat, IoU: 0.281 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.097 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.005 
+class push, IoU: 0.236 
+class drag, IoU: 0.000 
+class hear, IoU: 0.295 
+class clothe, IoU: 0.042 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.375 
+class jab, IoU: 0.000 
+class none, IoU: 0.438 
+
+Epoch(58) begin training........
+Train(58), loss: 0.828618, time: 679 s
+Epoch(58) begin validating......
+eval point avg class IoU: 0.377494
+eval point accuracy: 0.672003
+eval point avg class acc: 0.639638
+------- IoU --------
+class grasp, IoU: 0.421 
+class contain, IoU: 0.412 
+class lift, IoU: 0.202 
+class openable, IoU: 0.247 
+class layable, IoU: 0.316 
+class sittable, IoU: 0.587 
+class support, IoU: 0.513 
+class wrap_grasp, IoU: 0.427 
+class pourable, IoU: 0.414 
+class move, IoU: 0.471 
+class displaY, IoU: 0.512 
+class pushable, IoU: 0.265 
+class pull, IoU: 0.000 
+class listen, IoU: 0.469 
+class wear, IoU: 0.353 
+class press, IoU: 0.333 
+class cut, IoU: 0.506 
+class stab, IoU: 0.158 
+class none, IoU: 0.566 
+
+eval point avg class IoU: 0.113243
+eval point accuracy: 0.447524
+eval point avg class acc: 0.214448
+------- IoU --------
+class grab, IoU: 0.044 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.011 
+class rest, IoU: 0.001 
+class take a seat, IoU: 0.241 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.110 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.054 
+class push, IoU: 0.266 
+class drag, IoU: 0.000 
+class hear, IoU: 0.276 
+class clothe, IoU: 0.104 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.587 
+class jab, IoU: 0.000 
+class none, IoU: 0.447 
+
+Epoch(59) begin training........
+Train(59), loss: 0.827898, time: 678 s
+Epoch(59) begin validating......
+eval point avg class IoU: 0.366429
+eval point accuracy: 0.667714
+eval point avg class acc: 0.641916
+------- IoU --------
+class grasp, IoU: 0.406 
+class contain, IoU: 0.413 
+class lift, IoU: 0.220 
+class openable, IoU: 0.244 
+class layable, IoU: 0.257 
+class sittable, IoU: 0.576 
+class support, IoU: 0.521 
+class wrap_grasp, IoU: 0.421 
+class pourable, IoU: 0.399 
+class move, IoU: 0.464 
+class displaY, IoU: 0.526 
+class pushable, IoU: 0.259 
+class pull, IoU: 0.000 
+class listen, IoU: 0.425 
+class wear, IoU: 0.349 
+class press, IoU: 0.309 
+class cut, IoU: 0.496 
+class stab, IoU: 0.120 
+class none, IoU: 0.560 
+
+eval point avg class IoU: 0.107404
+eval point accuracy: 0.450789
+eval point avg class acc: 0.206481
+------- IoU --------
+class grab, IoU: 0.067 
+class accommodate, IoU: 0.002 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.015 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.346 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.028 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.002 
+class push, IoU: 0.274 
+class drag, IoU: 0.000 
+class hear, IoU: 0.266 
+class clothe, IoU: 0.059 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.539 
+class jab, IoU: 0.000 
+class none, IoU: 0.442 
+
+Epoch(60) begin training........
+Train(60), loss: 0.804152, time: 680 s
+Epoch(60) begin validating......
+eval point avg class IoU: 0.377272
+eval point accuracy: 0.666059
+eval point avg class acc: 0.655627
+------- IoU --------
+class grasp, IoU: 0.412 
+class contain, IoU: 0.413 
+class lift, IoU: 0.245 
+class openable, IoU: 0.247 
+class layable, IoU: 0.291 
+class sittable, IoU: 0.573 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.441 
+class pourable, IoU: 0.427 
+class move, IoU: 0.463 
+class displaY, IoU: 0.524 
+class pushable, IoU: 0.284 
+class pull, IoU: 0.000 
+class listen, IoU: 0.461 
+class wear, IoU: 0.363 
+class press, IoU: 0.234 
+class cut, IoU: 0.520 
+class stab, IoU: 0.194 
+class none, IoU: 0.551 
+
+eval point avg class IoU: 0.118809
+eval point accuracy: 0.459095
+eval point avg class acc: 0.227473
+------- IoU --------
+class grab, IoU: 0.062 
+class accommodate, IoU: 0.016 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.427 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.095 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.018 
+class push, IoU: 0.292 
+class drag, IoU: 0.000 
+class hear, IoU: 0.287 
+class clothe, IoU: 0.057 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.538 
+class jab, IoU: 0.000 
+class none, IoU: 0.449 
+
+Epoch(61) begin training........
+Train(61), loss: 0.799548, time: 680 s
+Epoch(61) begin validating......
+eval point avg class IoU: 0.364346
+eval point accuracy: 0.663358
+eval point avg class acc: 0.660172
+------- IoU --------
+class grasp, IoU: 0.404 
+class contain, IoU: 0.409 
+class lift, IoU: 0.265 
+class openable, IoU: 0.238 
+class layable, IoU: 0.258 
+class sittable, IoU: 0.573 
+class support, IoU: 0.521 
+class wrap_grasp, IoU: 0.428 
+class pourable, IoU: 0.414 
+class move, IoU: 0.462 
+class displaY, IoU: 0.501 
+class pushable, IoU: 0.229 
+class pull, IoU: 0.015 
+class listen, IoU: 0.439 
+class wear, IoU: 0.301 
+class press, IoU: 0.279 
+class cut, IoU: 0.501 
+class stab, IoU: 0.133 
+class none, IoU: 0.552 
+
+eval point avg class IoU: 0.106422
+eval point accuracy: 0.444921
+eval point avg class acc: 0.222964
+------- IoU --------
+class grab, IoU: 0.073 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.022 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.269 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.077 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.037 
+class push, IoU: 0.234 
+class drag, IoU: 0.000 
+class hear, IoU: 0.270 
+class clothe, IoU: 0.065 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.528 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(62) begin training........
+Train(62), loss: 0.798663, time: 677 s
+Epoch(62) begin validating......
+eval point avg class IoU: 0.376224
+eval point accuracy: 0.668769
+eval point avg class acc: 0.655955
+------- IoU --------
+class grasp, IoU: 0.414 
+class contain, IoU: 0.415 
+class lift, IoU: 0.214 
+class openable, IoU: 0.240 
+class layable, IoU: 0.296 
+class sittable, IoU: 0.587 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.433 
+class pourable, IoU: 0.421 
+class move, IoU: 0.463 
+class displaY, IoU: 0.519 
+class pushable, IoU: 0.240 
+class pull, IoU: 0.008 
+class listen, IoU: 0.454 
+class wear, IoU: 0.346 
+class press, IoU: 0.243 
+class cut, IoU: 0.529 
+class stab, IoU: 0.248 
+class none, IoU: 0.561 
+
+eval point avg class IoU: 0.100980
+eval point accuracy: 0.441776
+eval point avg class acc: 0.200768
+------- IoU --------
+class grab, IoU: 0.034 
+class accommodate, IoU: 0.009 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.019 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.210 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.052 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.007 
+class push, IoU: 0.289 
+class drag, IoU: 0.000 
+class hear, IoU: 0.274 
+class clothe, IoU: 0.009 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.574 
+class jab, IoU: 0.000 
+class none, IoU: 0.440 
+
+Epoch(63) begin training........
+Train(63), loss: 0.796443, time: 676 s
+Epoch(63) begin validating......
+eval point avg class IoU: 0.371370
+eval point accuracy: 0.660719
+eval point avg class acc: 0.663786
+------- IoU --------
+class grasp, IoU: 0.416 
+class contain, IoU: 0.413 
+class lift, IoU: 0.247 
+class openable, IoU: 0.248 
+class layable, IoU: 0.292 
+class sittable, IoU: 0.572 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.430 
+class pourable, IoU: 0.419 
+class move, IoU: 0.446 
+class displaY, IoU: 0.508 
+class pushable, IoU: 0.251 
+class pull, IoU: 0.004 
+class listen, IoU: 0.442 
+class wear, IoU: 0.372 
+class press, IoU: 0.233 
+class cut, IoU: 0.483 
+class stab, IoU: 0.207 
+class none, IoU: 0.548 
+
+eval point avg class IoU: 0.108259
+eval point accuracy: 0.451404
+eval point avg class acc: 0.216755
+------- IoU --------
+class grab, IoU: 0.096 
+class accommodate, IoU: 0.024 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.017 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.333 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.045 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.045 
+class push, IoU: 0.283 
+class drag, IoU: 0.000 
+class hear, IoU: 0.231 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.538 
+class jab, IoU: 0.000 
+class none, IoU: 0.445 
+
+Epoch(64) begin training........
+Train(64), loss: 0.792343, time: 676 s
+Epoch(64) begin validating......
+eval point avg class IoU: 0.376237
+eval point accuracy: 0.668339
+eval point avg class acc: 0.655889
+------- IoU --------
+class grasp, IoU: 0.414 
+class contain, IoU: 0.416 
+class lift, IoU: 0.210 
+class openable, IoU: 0.243 
+class layable, IoU: 0.304 
+class sittable, IoU: 0.581 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.436 
+class pourable, IoU: 0.408 
+class move, IoU: 0.463 
+class displaY, IoU: 0.519 
+class pushable, IoU: 0.264 
+class pull, IoU: 0.000 
+class listen, IoU: 0.472 
+class wear, IoU: 0.351 
+class press, IoU: 0.246 
+class cut, IoU: 0.475 
+class stab, IoU: 0.265 
+class none, IoU: 0.558 
+
+eval point avg class IoU: 0.095725
+eval point accuracy: 0.432992
+eval point avg class acc: 0.189185
+------- IoU --------
+class grab, IoU: 0.027 
+class accommodate, IoU: 0.006 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.070 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.044 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.014 
+class push, IoU: 0.281 
+class drag, IoU: 0.000 
+class hear, IoU: 0.332 
+class clothe, IoU: 0.045 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.560 
+class jab, IoU: 0.000 
+class none, IoU: 0.437 
+
+Epoch(65) begin training........
+Train(65), loss: 0.795519, time: 675 s
+Epoch(65) begin validating......
+eval point avg class IoU: 0.371464
+eval point accuracy: 0.665899
+eval point avg class acc: 0.654250
+------- IoU --------
+class grasp, IoU: 0.409 
+class contain, IoU: 0.422 
+class lift, IoU: 0.174 
+class openable, IoU: 0.238 
+class layable, IoU: 0.279 
+class sittable, IoU: 0.579 
+class support, IoU: 0.515 
+class wrap_grasp, IoU: 0.434 
+class pourable, IoU: 0.406 
+class move, IoU: 0.472 
+class displaY, IoU: 0.534 
+class pushable, IoU: 0.261 
+class pull, IoU: 0.000 
+class listen, IoU: 0.462 
+class wear, IoU: 0.329 
+class press, IoU: 0.268 
+class cut, IoU: 0.508 
+class stab, IoU: 0.216 
+class none, IoU: 0.552 
+
+eval point avg class IoU: 0.119938
+eval point accuracy: 0.454305
+eval point avg class acc: 0.218626
+------- IoU --------
+class grab, IoU: 0.082 
+class accommodate, IoU: 0.020 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.030 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.345 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.150 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.012 
+class push, IoU: 0.242 
+class drag, IoU: 0.000 
+class hear, IoU: 0.363 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.582 
+class jab, IoU: 0.007 
+class none, IoU: 0.446 
+
+Epoch(66) begin training........
+Train(66), loss: 0.792673, time: 676 s
+Epoch(66) begin validating......
+eval point avg class IoU: 0.375305
+eval point accuracy: 0.667489
+eval point avg class acc: 0.649922
+------- IoU --------
+class grasp, IoU: 0.420 
+class contain, IoU: 0.420 
+class lift, IoU: 0.168 
+class openable, IoU: 0.246 
+class layable, IoU: 0.310 
+class sittable, IoU: 0.584 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.426 
+class pourable, IoU: 0.430 
+class move, IoU: 0.452 
+class displaY, IoU: 0.523 
+class pushable, IoU: 0.282 
+class pull, IoU: 0.006 
+class listen, IoU: 0.468 
+class wear, IoU: 0.345 
+class press, IoU: 0.251 
+class cut, IoU: 0.509 
+class stab, IoU: 0.209 
+class none, IoU: 0.559 
+
+eval point avg class IoU: 0.104357
+eval point accuracy: 0.444797
+eval point avg class acc: 0.198162
+------- IoU --------
+class grab, IoU: 0.062 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.009 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.255 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.027 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.257 
+class drag, IoU: 0.000 
+class hear, IoU: 0.336 
+class clothe, IoU: 0.037 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.544 
+class jab, IoU: 0.000 
+class none, IoU: 0.442 
+
+Epoch(67) begin training........
+Train(67), loss: 0.791366, time: 675 s
+Epoch(67) begin validating......
+eval point avg class IoU: 0.375176
+eval point accuracy: 0.661689
+eval point avg class acc: 0.667566
+------- IoU --------
+class grasp, IoU: 0.414 
+class contain, IoU: 0.422 
+class lift, IoU: 0.259 
+class openable, IoU: 0.244 
+class layable, IoU: 0.286 
+class sittable, IoU: 0.575 
+class support, IoU: 0.526 
+class wrap_grasp, IoU: 0.433 
+class pourable, IoU: 0.419 
+class move, IoU: 0.460 
+class displaY, IoU: 0.501 
+class pushable, IoU: 0.245 
+class pull, IoU: 0.000 
+class listen, IoU: 0.456 
+class wear, IoU: 0.358 
+class press, IoU: 0.267 
+class cut, IoU: 0.504 
+class stab, IoU: 0.215 
+class none, IoU: 0.543 
+
+eval point avg class IoU: 0.122050
+eval point accuracy: 0.455282
+eval point avg class acc: 0.230142
+------- IoU --------
+class grab, IoU: 0.105 
+class accommodate, IoU: 0.019 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.393 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.027 
+class pour, IoU: 0.001 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.010 
+class push, IoU: 0.269 
+class drag, IoU: 0.000 
+class hear, IoU: 0.343 
+class clothe, IoU: 0.142 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.547 
+class jab, IoU: 0.000 
+class none, IoU: 0.444 
+
+Epoch(68) begin training........
+Train(68), loss: 0.789260, time: 677 s
+Epoch(68) begin validating......
+eval point avg class IoU: 0.378590
+eval point accuracy: 0.668841
+eval point avg class acc: 0.649276
+------- IoU --------
+class grasp, IoU: 0.410 
+class contain, IoU: 0.421 
+class lift, IoU: 0.292 
+class openable, IoU: 0.251 
+class layable, IoU: 0.284 
+class sittable, IoU: 0.578 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.433 
+class pourable, IoU: 0.427 
+class move, IoU: 0.444 
+class displaY, IoU: 0.522 
+class pushable, IoU: 0.264 
+class pull, IoU: 0.000 
+class listen, IoU: 0.459 
+class wear, IoU: 0.310 
+class press, IoU: 0.272 
+class cut, IoU: 0.534 
+class stab, IoU: 0.202 
+class none, IoU: 0.566 
+
+eval point avg class IoU: 0.105704
+eval point accuracy: 0.441938
+eval point avg class acc: 0.201889
+------- IoU --------
+class grab, IoU: 0.058 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.018 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.208 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.031 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.012 
+class push, IoU: 0.255 
+class drag, IoU: 0.000 
+class hear, IoU: 0.294 
+class clothe, IoU: 0.108 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.580 
+class jab, IoU: 0.000 
+class none, IoU: 0.440 
+
+Epoch(69) begin training........
+Train(69), loss: 0.789952, time: 676 s
+Epoch(69) begin validating......
+eval point avg class IoU: 0.373375
+eval point accuracy: 0.670172
+eval point avg class acc: 0.645868
+------- IoU --------
+class grasp, IoU: 0.413 
+class contain, IoU: 0.424 
+class lift, IoU: 0.275 
+class openable, IoU: 0.245 
+class layable, IoU: 0.289 
+class sittable, IoU: 0.582 
+class support, IoU: 0.524 
+class wrap_grasp, IoU: 0.430 
+class pourable, IoU: 0.412 
+class move, IoU: 0.455 
+class displaY, IoU: 0.524 
+class pushable, IoU: 0.269 
+class pull, IoU: 0.000 
+class listen, IoU: 0.405 
+class wear, IoU: 0.350 
+class press, IoU: 0.286 
+class cut, IoU: 0.528 
+class stab, IoU: 0.117 
+class none, IoU: 0.566 
+
+eval point avg class IoU: 0.094709
+eval point accuracy: 0.436747
+eval point avg class acc: 0.198013
+------- IoU --------
+class grab, IoU: 0.102 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.026 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.106 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.081 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.008 
+class push, IoU: 0.291 
+class drag, IoU: 0.000 
+class hear, IoU: 0.178 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.558 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(70) begin training........
+Train(70), loss: 0.788340, time: 676 s
+Epoch(70) begin validating......
+eval point avg class IoU: 0.371330
+eval point accuracy: 0.667864
+eval point avg class acc: 0.643318
+------- IoU --------
+class grasp, IoU: 0.405 
+class contain, IoU: 0.421 
+class lift, IoU: 0.219 
+class openable, IoU: 0.249 
+class layable, IoU: 0.280 
+class sittable, IoU: 0.586 
+class support, IoU: 0.524 
+class wrap_grasp, IoU: 0.439 
+class pourable, IoU: 0.410 
+class move, IoU: 0.458 
+class displaY, IoU: 0.507 
+class pushable, IoU: 0.251 
+class pull, IoU: 0.000 
+class listen, IoU: 0.447 
+class wear, IoU: 0.338 
+class press, IoU: 0.275 
+class cut, IoU: 0.507 
+class stab, IoU: 0.183 
+class none, IoU: 0.559 
+
+eval point avg class IoU: 0.112630
+eval point accuracy: 0.455727
+eval point avg class acc: 0.228456
+------- IoU --------
+class grab, IoU: 0.074 
+class accommodate, IoU: 0.011 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.004 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.388 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.055 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.032 
+class push, IoU: 0.245 
+class drag, IoU: 0.000 
+class hear, IoU: 0.179 
+class clothe, IoU: 0.177 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.529 
+class jab, IoU: 0.000 
+class none, IoU: 0.446 
+
+Epoch(71) begin training........
+Train(71), loss: 0.787095, time: 675 s
+Epoch(71) begin validating......
+eval point avg class IoU: 0.375460
+eval point accuracy: 0.672669
+eval point avg class acc: 0.633179
+------- IoU --------
+class grasp, IoU: 0.408 
+class contain, IoU: 0.415 
+class lift, IoU: 0.232 
+class openable, IoU: 0.244 
+class layable, IoU: 0.277 
+class sittable, IoU: 0.586 
+class support, IoU: 0.515 
+class wrap_grasp, IoU: 0.438 
+class pourable, IoU: 0.427 
+class move, IoU: 0.466 
+class displaY, IoU: 0.527 
+class pushable, IoU: 0.276 
+class pull, IoU: 0.000 
+class listen, IoU: 0.464 
+class wear, IoU: 0.331 
+class press, IoU: 0.293 
+class cut, IoU: 0.514 
+class stab, IoU: 0.154 
+class none, IoU: 0.568 
+
+eval point avg class IoU: 0.094652
+eval point accuracy: 0.439802
+eval point avg class acc: 0.192569
+------- IoU --------
+class grab, IoU: 0.100 
+class accommodate, IoU: 0.000 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.022 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.171 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.030 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.011 
+class push, IoU: 0.276 
+class drag, IoU: 0.000 
+class hear, IoU: 0.229 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.519 
+class jab, IoU: 0.000 
+class none, IoU: 0.440 
+
+Epoch(72) begin training........
+Train(72), loss: 0.785780, time: 675 s
+Epoch(72) begin validating......
+eval point avg class IoU: 0.380278
+eval point accuracy: 0.671991
+eval point avg class acc: 0.643184
+------- IoU --------
+class grasp, IoU: 0.407 
+class contain, IoU: 0.414 
+class lift, IoU: 0.269 
+class openable, IoU: 0.251 
+class layable, IoU: 0.297 
+class sittable, IoU: 0.590 
+class support, IoU: 0.511 
+class wrap_grasp, IoU: 0.435 
+class pourable, IoU: 0.413 
+class move, IoU: 0.474 
+class displaY, IoU: 0.523 
+class pushable, IoU: 0.283 
+class pull, IoU: 0.000 
+class listen, IoU: 0.446 
+class wear, IoU: 0.365 
+class press, IoU: 0.299 
+class cut, IoU: 0.562 
+class stab, IoU: 0.122 
+class none, IoU: 0.564 
+
+eval point avg class IoU: 0.107220
+eval point accuracy: 0.445682
+eval point avg class acc: 0.202563
+------- IoU --------
+class grab, IoU: 0.068 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.011 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.223 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.092 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.009 
+class push, IoU: 0.288 
+class drag, IoU: 0.000 
+class hear, IoU: 0.346 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.553 
+class jab, IoU: 0.000 
+class none, IoU: 0.441 
+
+Epoch(73) begin training........
+Train(73), loss: 0.786683, time: 677 s
+Epoch(73) begin validating......
+eval point avg class IoU: 0.382973
+eval point accuracy: 0.669878
+eval point avg class acc: 0.645726
+------- IoU --------
+class grasp, IoU: 0.421 
+class contain, IoU: 0.418 
+class lift, IoU: 0.277 
+class openable, IoU: 0.242 
+class layable, IoU: 0.308 
+class sittable, IoU: 0.585 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.418 
+class pourable, IoU: 0.421 
+class move, IoU: 0.460 
+class displaY, IoU: 0.528 
+class pushable, IoU: 0.306 
+class pull, IoU: 0.000 
+class listen, IoU: 0.440 
+class wear, IoU: 0.362 
+class press, IoU: 0.280 
+class cut, IoU: 0.563 
+class stab, IoU: 0.164 
+class none, IoU: 0.563 
+
+eval point avg class IoU: 0.113715
+eval point accuracy: 0.457452
+eval point avg class acc: 0.202356
+------- IoU --------
+class grab, IoU: 0.097 
+class accommodate, IoU: 0.017 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.007 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.386 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.064 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.024 
+class push, IoU: 0.285 
+class drag, IoU: 0.000 
+class hear, IoU: 0.254 
+class clothe, IoU: 0.001 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.577 
+class jab, IoU: 0.000 
+class none, IoU: 0.447 
+
+Epoch(74) begin training........
+Train(74), loss: 0.784105, time: 678 s
+Epoch(74) begin validating......
+eval point avg class IoU: 0.377474
+eval point accuracy: 0.672032
+eval point avg class acc: 0.640405
+------- IoU --------
+class grasp, IoU: 0.407 
+class contain, IoU: 0.413 
+class lift, IoU: 0.137 
+class openable, IoU: 0.245 
+class layable, IoU: 0.302 
+class sittable, IoU: 0.588 
+class support, IoU: 0.525 
+class wrap_grasp, IoU: 0.431 
+class pourable, IoU: 0.417 
+class move, IoU: 0.461 
+class displaY, IoU: 0.529 
+class pushable, IoU: 0.287 
+class pull, IoU: 0.000 
+class listen, IoU: 0.471 
+class wear, IoU: 0.371 
+class press, IoU: 0.284 
+class cut, IoU: 0.538 
+class stab, IoU: 0.199 
+class none, IoU: 0.566 
+
+eval point avg class IoU: 0.099129
+eval point accuracy: 0.443177
+eval point avg class acc: 0.188574
+------- IoU --------
+class grab, IoU: 0.054 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.016 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.213 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.044 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.010 
+class push, IoU: 0.297 
+class drag, IoU: 0.000 
+class hear, IoU: 0.282 
+class clothe, IoU: 0.000 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.525 
+class jab, IoU: 0.000 
+class none, IoU: 0.439 
+
+Epoch(75) begin training........
+Train(75), loss: 0.785030, time: 676 s
+Epoch(75) begin validating......
+eval point avg class IoU: 0.377184
+eval point accuracy: 0.672337
+eval point avg class acc: 0.648526
+------- IoU --------
+class grasp, IoU: 0.416 
+class contain, IoU: 0.430 
+class lift, IoU: 0.166 
+class openable, IoU: 0.246 
+class layable, IoU: 0.308 
+class sittable, IoU: 0.580 
+class support, IoU: 0.520 
+class wrap_grasp, IoU: 0.424 
+class pourable, IoU: 0.418 
+class move, IoU: 0.464 
+class displaY, IoU: 0.513 
+class pushable, IoU: 0.270 
+class pull, IoU: 0.000 
+class listen, IoU: 0.442 
+class wear, IoU: 0.365 
+class press, IoU: 0.260 
+class cut, IoU: 0.537 
+class stab, IoU: 0.241 
+class none, IoU: 0.566 
+
+eval point avg class IoU: 0.109301
+eval point accuracy: 0.448081
+eval point avg class acc: 0.224040
+------- IoU --------
+class grab, IoU: 0.070 
+class accommodate, IoU: 0.009 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.010 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.315 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.030 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.056 
+class push, IoU: 0.274 
+class drag, IoU: 0.000 
+class hear, IoU: 0.209 
+class clothe, IoU: 0.101 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.557 
+class jab, IoU: 0.000 
+class none, IoU: 0.445 
+
+Epoch(76) begin training........
+Train(76), loss: 0.782538, time: 681 s
+Epoch(76) begin validating......
+eval point avg class IoU: 0.378043
+eval point accuracy: 0.669417
+eval point avg class acc: 0.651673
+------- IoU --------
+class grasp, IoU: 0.415 
+class contain, IoU: 0.419 
+class lift, IoU: 0.212 
+class openable, IoU: 0.247 
+class layable, IoU: 0.287 
+class sittable, IoU: 0.579 
+class support, IoU: 0.523 
+class wrap_grasp, IoU: 0.437 
+class pourable, IoU: 0.429 
+class move, IoU: 0.454 
+class displaY, IoU: 0.521 
+class pushable, IoU: 0.262 
+class pull, IoU: 0.004 
+class listen, IoU: 0.465 
+class wear, IoU: 0.369 
+class press, IoU: 0.267 
+class cut, IoU: 0.551 
+class stab, IoU: 0.181 
+class none, IoU: 0.561 
+
+eval point avg class IoU: 0.111634
+eval point accuracy: 0.451808
+eval point avg class acc: 0.225738
+------- IoU --------
+class grab, IoU: 0.101 
+class accommodate, IoU: 0.008 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.005 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.324 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.153 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.013 
+class push, IoU: 0.290 
+class drag, IoU: 0.000 
+class hear, IoU: 0.111 
+class clothe, IoU: 0.082 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.566 
+class jab, IoU: 0.000 
+class none, IoU: 0.467 
+
+Epoch(77) begin training........
+Train(77), loss: 0.781771, time: 681 s
+Epoch(77) begin validating......
+eval point avg class IoU: 0.384579
+eval point accuracy: 0.672290
+eval point avg class acc: 0.647024
+------- IoU --------
+class grasp, IoU: 0.422 
+class contain, IoU: 0.411 
+class lift, IoU: 0.235 
+class openable, IoU: 0.244 
+class layable, IoU: 0.315 
+class sittable, IoU: 0.584 
+class support, IoU: 0.514 
+class wrap_grasp, IoU: 0.439 
+class pourable, IoU: 0.423 
+class move, IoU: 0.461 
+class displaY, IoU: 0.534 
+class pushable, IoU: 0.285 
+class pull, IoU: 0.000 
+class listen, IoU: 0.495 
+class wear, IoU: 0.348 
+class press, IoU: 0.292 
+class cut, IoU: 0.549 
+class stab, IoU: 0.187 
+class none, IoU: 0.569 
+
+eval point avg class IoU: 0.114603
+eval point accuracy: 0.441400
+eval point avg class acc: 0.200207
+------- IoU --------
+class grab, IoU: 0.065 
+class accommodate, IoU: 0.015 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.023 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.155 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.062 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.016 
+class push, IoU: 0.289 
+class drag, IoU: 0.000 
+class hear, IoU: 0.412 
+class clothe, IoU: 0.136 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.561 
+class jab, IoU: 0.000 
+class none, IoU: 0.443 
+
+Epoch(78) begin training........
+Train(78), loss: 0.779398, time: 681 s
+Epoch(78) begin validating......
+eval point avg class IoU: 0.381263
+eval point accuracy: 0.662227
+eval point avg class acc: 0.656961
+------- IoU --------
+class grasp, IoU: 0.417 
+class contain, IoU: 0.408 
+class lift, IoU: 0.277 
+class openable, IoU: 0.241 
+class layable, IoU: 0.317 
+class sittable, IoU: 0.570 
+class support, IoU: 0.521 
+class wrap_grasp, IoU: 0.427 
+class pourable, IoU: 0.411 
+class move, IoU: 0.449 
+class displaY, IoU: 0.494 
+class pushable, IoU: 0.291 
+class pull, IoU: 0.000 
+class listen, IoU: 0.482 
+class wear, IoU: 0.340 
+class press, IoU: 0.281 
+class cut, IoU: 0.536 
+class stab, IoU: 0.231 
+class none, IoU: 0.551 
+
+eval point avg class IoU: 0.116392
+eval point accuracy: 0.444390
+eval point avg class acc: 0.206828
+------- IoU --------
+class grab, IoU: 0.069 
+class accommodate, IoU: 0.004 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.023 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.193 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.108 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.026 
+class push, IoU: 0.294 
+class drag, IoU: 0.000 
+class hear, IoU: 0.391 
+class clothe, IoU: 0.072 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.587 
+class jab, IoU: 0.000 
+class none, IoU: 0.445 
+
+Epoch(79) begin training........
+Train(79), loss: 0.783544, time: 677 s
+Epoch(79) begin validating......
+eval point avg class IoU: 0.381694
+eval point accuracy: 0.670747
+eval point avg class acc: 0.651200
+------- IoU --------
+class grasp, IoU: 0.414 
+class contain, IoU: 0.423 
+class lift, IoU: 0.239 
+class openable, IoU: 0.240 
+class layable, IoU: 0.305 
+class sittable, IoU: 0.579 
+class support, IoU: 0.519 
+class wrap_grasp, IoU: 0.419 
+class pourable, IoU: 0.423 
+class move, IoU: 0.461 
+class displaY, IoU: 0.515 
+class pushable, IoU: 0.246 
+class pull, IoU: 0.000 
+class listen, IoU: 0.473 
+class wear, IoU: 0.317 
+class press, IoU: 0.336 
+class cut, IoU: 0.484 
+class stab, IoU: 0.294 
+class none, IoU: 0.565 
+
+eval point avg class IoU: 0.117196
+eval point accuracy: 0.439539
+eval point avg class acc: 0.220061
+------- IoU --------
+class grab, IoU: 0.069 
+class accommodate, IoU: 0.005 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.007 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.151 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.057 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.003 
+class push, IoU: 0.257 
+class drag, IoU: 0.000 
+class hear, IoU: 0.430 
+class clothe, IoU: 0.292 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.518 
+class jab, IoU: 0.000 
+class none, IoU: 0.438 
+
+Epoch(80) begin training........
+Train(80), loss: 0.772413, time: 682 s
+Epoch(80) begin validating......
+eval point avg class IoU: 0.382770
+eval point accuracy: 0.673084
+eval point avg class acc: 0.655707
+------- IoU --------
+class grasp, IoU: 0.421 
+class contain, IoU: 0.430 
+class lift, IoU: 0.209 
+class openable, IoU: 0.256 
+class layable, IoU: 0.317 
+class sittable, IoU: 0.586 
+class support, IoU: 0.526 
+class wrap_grasp, IoU: 0.424 
+class pourable, IoU: 0.423 
+class move, IoU: 0.457 
+class displaY, IoU: 0.526 
+class pushable, IoU: 0.278 
+class pull, IoU: 0.001 
+class listen, IoU: 0.444 
+class wear, IoU: 0.369 
+class press, IoU: 0.308 
+class cut, IoU: 0.455 
+class stab, IoU: 0.277 
+class none, IoU: 0.567 
+
+eval point avg class IoU: 0.111045
+eval point accuracy: 0.447787
+eval point avg class acc: 0.209357
+------- IoU --------
+class grab, IoU: 0.079 
+class accommodate, IoU: 0.007 
+class raise, IoU: 0.000 
+class unlock, IoU: 0.019 
+class rest, IoU: 0.000 
+class take a seat, IoU: 0.284 
+class bear, IoU: 0.000 
+class wrap, IoU: 0.028 
+class pour, IoU: 0.000 
+class reposition, IoU: 0.000 
+class demonstrate, IoU: 0.006 
+class push, IoU: 0.304 
+class drag, IoU: 0.000 
+class hear, IoU: 0.295 
+class clothe, IoU: 0.080 
+class thumb, IoU: 0.000 
+class slice, IoU: 0.565 
+class jab, IoU: 0.000 
+class none, IoU: 0.444 
+
+Epoch(81) begin training........
