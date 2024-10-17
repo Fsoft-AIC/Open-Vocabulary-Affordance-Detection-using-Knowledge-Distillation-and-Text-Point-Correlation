@@ -6,6 +6,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2303.02401-0009F6.svg)](https://arxiv.org/abs/2309.10932)
 
 Official code for the ICRA 2024 paper "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation".
+
 <img src="./demo/intro.png" width="500">
 </div>
 
