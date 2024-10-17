@@ -1,6 +1,6 @@
 <div align="center">
 
-# # [ICRA 2024] Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation
+# [ICRA 2024] Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation
 
 [![Conference](https://img.shields.io/badge/ICRA-2024-FF0B0B.svg)](https://2024.ieee-icra.org/)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2303.02401-0009F6.svg)](https://arxiv.org/abs/2309.10932)
